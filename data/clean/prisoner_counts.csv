@@ -1,0 +1,2174 @@
+,year,region,geography,males,females,total
+0,1880,aggregate,U.S. Total,54190.0,5068.0,59258.0
+1,1880,midwest,Illinois,3134.0,202.0,3336.0
+2,1880,midwest,Indiana,1541.0,94.0,1635.0
+3,1880,midwest,Iowa,806.0,13.0,819.0
+4,1880,midwest,Kansas,1281.0,16.0,1297.0
+5,1880,midwest,Michigan,1810.0,113.0,1923.0
+6,1880,midwest,Minnesota,416.0,12.0,428.0
+7,1880,midwest,Missouri,1920.0,135.0,2055.0
+8,1880,midwest,Nebraska,368.0,9.0,377.0
+9,1880,midwest,Ohio,2306.0,262.0,2568.0
+10,1880,midwest,Wisconsin,570.0,28.0,598.0
+11,1880,northeast,Connecticut,671.0,61.0,732.0
+12,1880,northeast,Maine,390.0,18.0,408.0
+13,1880,northeast,Massachusetts,2914.0,705.0,3619.0
+14,1880,northeast,New Hampshire,245.0,28.0,273.0
+15,1880,northeast,New Jersey,1447.0,152.0,1599.0
+16,1880,northeast,New York,7580.0,1228.0,8808.0
+17,1880,northeast,Pennsylvania,4401.0,485.0,4886.0
+18,1880,northeast,Rhode Island,255.0,65.0,320.0
+19,1880,northeast,Vermont,250.0,11.0,261.0
+20,1880,south,Alabama,1317.0,81.0,1398.0
+21,1880,south,Arkansas,743.0,24.0,767.0
+22,1880,south,Delaware,68.0,14.0,82.0
+23,1880,south,District of Columbia,309.0,72.0,381.0
+24,1880,south,Florida,259.0,16.0,275.0
+25,1880,south,Georgia,1729.0,108.0,1837.0
+26,1880,south,Kentucky,1336.0,87.0,1423.0
+27,1880,south,Louisiana,937.0,140.0,1077.0
+28,1880,south,Maryland,1089.0,173.0,1262.0
+29,1880,south,Mississippi,1265.0,64.0,1329.0
+30,1880,south,North Carolina,1524.0,95.0,1619.0
+31,1880,south,South Carolina,602.0,40.0,642.0
+32,1880,south,Tennessee,1989.0,140.0,2129.0
+33,1880,south,Texas,3110.0,78.0,3188.0
+34,1880,south,Virginia,1362.0,192.0,1554.0
+35,1880,south,West Virginia,367.0,27.0,394.0
+36,1880,west,Arizona,66.0,1.0,67.0
+37,1880,west,California,2590.0,65.0,2655.0
+38,1880,west,Colorado,377.0,3.0,380.0
+39,1880,west,Dakota,59.0,1.0,60.0
+40,1880,west,Idaho,32.0,0.0,32.0
+41,1880,west,Montana,75.0,2.0,77.0
+42,1880,west,Nevada,197.0,2.0,199.0
+43,1880,west,New Mexico,40.0,1.0,41.0
+44,1880,west,Oregon,233.0,0.0,233.0
+45,1880,west,Utah,60.0,0.0,60.0
+46,1880,west,Washington,78.0,3.0,81.0
+47,1880,west,Wyoming,72.0,2.0,74.0
+48,1910,aggregate,Federal,1904.0,0.0,1904.0
+49,1910,aggregate,U.S. Total,105362.0,6136.0,111498.0
+50,1910,midwest,Illinois,4850.0,261.0,5111.0
+51,1910,midwest,Indiana,2734.0,136.0,2870.0
+52,1910,midwest,Iowa,1303.0,51.0,1354.0
+53,1910,midwest,Kansas,1492.0,45.0,1537.0
+54,1910,midwest,Michigan,2534.0,55.0,2589.0
+55,1910,midwest,Minnesota,1569.0,44.0,1613.0
+56,1910,midwest,Missouri,3343.0,180.0,3523.0
+57,1910,midwest,Nebraska,639.0,17.0,656.0
+58,1910,midwest,North Dakota,361.0,6.0,367.0
+59,1910,midwest,Ohio,3840.0,165.0,4005.0
+60,1910,midwest,South Dakota,274.0,5.0,279.0
+61,1910,midwest,Wisconsin,1618.0,57.0,1675.0
+62,1910,northeast,Connecticut,1432.0,87.0,1519.0
+63,1910,northeast,Maine,703.0,27.0,730.0
+64,1910,northeast,Massachusetts,5977.0,730.0,6707.0
+65,1910,northeast,New Hampshire,471.0,37.0,508.0
+66,1910,northeast,New Jersey,2818.0,183.0,3001.0
+67,1910,northeast,New York,11123.0,1374.0,12497.0
+68,1910,northeast,Pennsylvania,7688.0,487.0,8175.0
+69,1910,northeast,Rhode Island,649.0,80.0,729.0
+70,1910,northeast,Vermont,368.0,27.0,395.0
+71,1910,south,Alabama,3503.0,184.0,3687.0
+72,1910,south,Arkansas,1254.0,53.0,1307.0
+73,1910,south,Delaware,276.0,14.0,290.0
+74,1910,south,District of Columbia,686.0,101.0,787.0
+75,1910,south,Florida,1757.0,79.0,1836.0
+76,1910,south,Georgia,4770.0,224.0,4994.0
+77,1910,south,Kentucky,2635.0,94.0,2729.0
+78,1910,south,Louisiana,2287.0,113.0,2400.0
+79,1910,south,Maryland,1958.0,188.0,2146.0
+80,1910,south,Mississippi,2194.0,89.0,2283.0
+81,1910,south,North Carolina,1331.0,89.0,1420.0
+82,1910,south,Oklahoma,1630.0,38.0,1668.0
+83,1910,south,South Carolina,1613.0,78.0,1691.0
+84,1910,south,Tennessee,2522.0,120.0,2642.0
+85,1910,south,Texas,4127.0,100.0,4227.0
+86,1910,south,Virginia,3006.0,233.0,3239.0
+87,1910,south,West Virginia,1417.0,58.0,1475.0
+88,1910,west,Arizona,639.0,6.0,645.0
+89,1910,west,California,4070.0,85.0,4155.0
+90,1910,west,Colorado,1164.0,66.0,1230.0
+91,1910,west,Idaho,286.0,1.0,287.0
+92,1910,west,Montana,955.0,8.0,963.0
+93,1910,west,Nevada,285.0,4.0,289.0
+94,1910,west,New Mexico,398.0,10.0,408.0
+95,1910,west,Oregon,615.0,8.0,623.0
+96,1910,west,Utah,390.0,4.0,394.0
+97,1910,west,Washington,1618.0,34.0,1652.0
+98,1910,west,Wyoming,286.0,1.0,287.0
+99,1940,aggregate,U.S. Total,292138.0,25030.0,317168.0
+100,1940,midwest,Illinois,16331.0,854.0,17185.0
+101,1940,midwest,Indiana,6694.0,545.0,7239.0
+102,1940,midwest,Iowa,4264.0,412.0,4676.0
+103,1940,midwest,Kansas,7357.0,169.0,7526.0
+104,1940,midwest,Michigan,10785.0,646.0,11431.0
+105,1940,midwest,Minnesota,4260.0,450.0,4710.0
+106,1940,midwest,Missouri,6669.0,741.0,7410.0
+107,1940,midwest,Nebraska,1549.0,415.0,1964.0
+108,1940,midwest,North Dakota,569.0,88.0,657.0
+109,1940,midwest,Ohio,15150.0,1255.0,16405.0
+110,1940,midwest,South Dakota,601.0,23.0,624.0
+111,1940,midwest,Wisconsin,3772.0,199.0,3971.0
+112,1940,northeast,Connecticut,2012.0,734.0,2746.0
+113,1940,northeast,Maine,1233.0,245.0,1478.0
+114,1940,northeast,Massachusetts,7964.0,1745.0,9709.0
+115,1940,northeast,New Hampshire,691.0,52.0,743.0
+116,1940,northeast,New Jersey,5937.0,727.0,6664.0
+117,1940,northeast,New York,26235.0,1970.0,28205.0
+118,1940,northeast,Pennsylvania,17077.0,1311.0,18388.0
+119,1940,northeast,Rhode Island,671.0,47.0,718.0
+120,1940,northeast,Vermont,583.0,98.0,681.0
+121,1940,south,Alabama,8788.0,811.0,9599.0
+122,1940,south,Arkansas,2718.0,173.0,2891.0
+123,1940,south,Delaware,672.0,152.0,824.0
+124,1940,south,District of Columbia,964.0,178.0,1142.0
+125,1940,south,Florida,7134.0,545.0,7679.0
+126,1940,south,Georgia,12418.0,911.0,13329.0
+127,1940,south,Kentucky,7969.0,413.0,8382.0
+128,1940,south,Louisiana,5092.0,371.0,5463.0
+129,1940,south,Maryland,4980.0,358.0,5338.0
+130,1940,south,Mississippi,4024.0,344.0,4368.0
+131,1940,south,North Carolina,12119.0,891.0,13010.0
+132,1940,south,Oklahoma,7064.0,403.0,7467.0
+133,1940,south,South Carolina,4215.0,319.0,4534.0
+134,1940,south,Tennessee,7647.0,1039.0,8686.0
+135,1940,south,Texas,12384.0,850.0,13234.0
+136,1940,south,Virginia,11625.0,904.0,12529.0
+137,1940,south,West Virginia,5605.0,1032.0,6637.0
+138,1940,west,Arizona,1442.0,135.0,1577.0
+139,1940,west,California,21782.0,1532.0,23314.0
+140,1940,west,Colorado,2488.0,375.0,2863.0
+141,1940,west,Idaho,888.0,44.0,932.0
+142,1940,west,Montana,936.0,19.0,955.0
+143,1940,west,Nevada,400.0,10.0,410.0
+144,1940,west,New Mexico,996.0,21.0,1017.0
+145,1940,west,Oregon,1657.0,104.0,1761.0
+146,1940,west,Utah,753.0,40.0,793.0
+147,1940,west,Washington,4477.0,278.0,4755.0
+148,1940,west,Wyoming,497.0,52.0,549.0
+149,1970,aggregate,U.S. Total,313800.0,14220.0,328020.0
+150,1970,midwest,Illinois,11771.0,410.0,12181.0
+151,1970,midwest,Indiana,7974.0,258.0,8232.0
+152,1970,midwest,Iowa,2124.0,151.0,2275.0
+153,1970,midwest,Kansas,4682.0,134.0,4816.0
+154,1970,midwest,Michigan,12337.0,561.0,12898.0
+155,1970,midwest,Minnesota,3057.0,171.0,3228.0
+156,1970,midwest,Missouri,6541.0,307.0,6848.0
+157,1970,midwest,Nebraska,1580.0,80.0,1660.0
+158,1970,midwest,North Dakota,245.0,10.0,255.0
+159,1970,midwest,Ohio,13731.0,559.0,14290.0
+160,1970,midwest,South Dakota,460.0,9.0,469.0
+161,1970,midwest,Wisconsin,4478.0,189.0,4667.0
+162,1970,northeast,Connecticut,3479.0,147.0,3626.0
+163,1970,northeast,Maine,708.0,21.0,729.0
+164,1970,northeast,Massachusetts,5268.0,210.0,5478.0
+165,1970,northeast,New Hampshire,448.0,15.0,463.0
+166,1970,northeast,New Jersey,8425.0,447.0,8872.0
+167,1970,northeast,New York,22711.0,917.0,23628.0
+168,1970,northeast,Pennsylvania,12347.0,368.0,12715.0
+169,1970,northeast,Rhode Island,520.0,0.0,520.0
+170,1970,northeast,Vermont,397.0,5.0,402.0
+171,1970,south,Alabama,5460.0,191.0,5651.0
+172,1970,south,Arkansas,2015.0,106.0,2121.0
+173,1970,south,Delaware,617.0,38.0,655.0
+174,1970,south,District of Columbia,1139.0,117.0,1256.0
+175,1970,south,Florida,15267.0,922.0,16189.0
+176,1970,south,Georgia,13991.0,456.0,14447.0
+177,1970,south,Kentucky,5506.0,119.0,5625.0
+178,1970,south,Louisiana,7434.0,314.0,7748.0
+179,1970,south,Maryland,8686.0,237.0,8923.0
+180,1970,south,Mississippi,2485.0,137.0,2622.0
+181,1970,south,North Carolina,10407.0,443.0,10850.0
+182,1970,south,Oklahoma,5787.0,248.0,6035.0
+183,1970,south,South Carolina,4945.0,142.0,5087.0
+184,1970,south,Tennessee,6347.0,369.0,6716.0
+185,1970,south,Texas,20594.0,997.0,21591.0
+186,1970,south,Virginia,10902.0,422.0,11324.0
+187,1970,south,West Virginia,1559.0,742.0,2301.0
+188,1970,west,Alaska,322.0,15.0,337.0
+189,1970,west,Arizona,3201.0,130.0,3331.0
+190,1970,west,California,47286.0,2572.0,49858.0
+191,1970,west,Colorado,2926.0,115.0,3041.0
+192,1970,west,Hawaii,367.0,5.0,372.0
+193,1970,west,Idaho,586.0,31.0,617.0
+194,1970,west,Montana,581.0,31.0,612.0
+195,1970,west,Nevada,1151.0,66.0,1217.0
+196,1970,west,New Mexico,1483.0,39.0,1522.0
+197,1970,west,Oregon,2578.0,58.0,2636.0
+198,1970,west,Utah,855.0,20.0,875.0
+199,1970,west,Washington,5731.0,163.0,5894.0
+200,1970,west,Wyoming,309.0,6.0,315.0
+201,1977,aggregate,Federal,30185.0,1903.0,32088.0
+202,1977,aggregate,Midwest,57973.0,2221.0,60194.0
+203,1977,aggregate,Northeast,39812.0,1225.0,41037.0
+204,1977,aggregate,South,122800.0,5028.0,127828.0
+205,1977,aggregate,State Total,257560.0,10376.0,267936.0
+206,1977,aggregate,U.S. Total,287745.0,12279.0,300024.0
+207,1977,aggregate,West,36975.0,1902.0,38877.0
+208,1977,midwest,Illinois,11449.0,306.0,11755.0
+209,1977,midwest,Indiana,4498.0,135.0,4633.0
+210,1977,midwest,Iowa,2072.0,88.0,2160.0
+211,1977,midwest,Kansas,2157.0,90.0,2247.0
+212,1977,midwest,Michigan,13286.0,538.0,13824.0
+213,1977,midwest,Minnesota,1808.0,75.0,1883.0
+214,1977,midwest,Missouri,5144.0,158.0,5302.0
+215,1977,midwest,Nebraska,1334.0,90.0,1424.0
+216,1977,midwest,North Dakota,225.0,2.0,227.0
+217,1977,midwest,Ohio,12269.0,577.0,12846.0
+218,1977,midwest,South Dakota,520.0,26.0,546.0
+219,1977,midwest,Wisconsin,3211.0,136.0,3347.0
+220,1977,northeast,Connecticut,2951.0,143.0,3094.0
+221,1977,northeast,Maine,623.0,14.0,637.0
+222,1977,northeast,Massachusetts,2660.0,107.0,2767.0
+223,1977,northeast,New Hampshire,259.0,2.0,261.0
+224,1977,northeast,New Jersey,5837.0,180.0,6017.0
+225,1977,northeast,New York,18855.0,512.0,19367.0
+226,1977,northeast,Pennsylvania,7447.0,236.0,7683.0
+227,1977,northeast,Rhode Island,673.0,17.0,690.0
+228,1977,northeast,Vermont,507.0,14.0,521.0
+229,1977,south,Alabama,5324.0,223.0,5547.0
+230,1977,south,Arkansas,2450.0,92.0,2542.0
+231,1977,south,Delaware,1168.0,62.0,1230.0
+232,1977,south,District of Columbia,2754.0,50.0,2804.0
+233,1977,south,Florida,18767.0,879.0,19646.0
+234,1977,south,Georgia,11477.0,535.0,12012.0
+235,1977,south,Kentucky,3523.0,139.0,3662.0
+236,1977,south,Louisiana,6514.0,217.0,6731.0
+237,1977,south,Maryland,7900.0,248.0,8148.0
+238,1977,south,Mississippi,2753.0,63.0,2816.0
+239,1977,south,North Carolina,13719.0,531.0,14250.0
+240,1977,south,Oklahoma,4228.0,192.0,4420.0
+241,1977,south,South Carolina,6926.0,310.0,7236.0
+242,1977,south,Tennessee,5248.0,232.0,5480.0
+243,1977,south,Texas,21520.0,919.0,22439.0
+244,1977,south,Virginia,7367.0,292.0,7659.0
+245,1977,south,West Virginia,1162.0,44.0,1206.0
+246,1977,west,Alaska,764.0,35.0,799.0
+247,1977,west,Arizona,3042.0,187.0,3229.0
+248,1977,west,California,18576.0,1047.0,19623.0
+249,1977,west,Colorado,2258.0,72.0,2330.0
+250,1977,west,Hawaii,535.0,19.0,554.0
+251,1977,west,Idaho,746.0,28.0,774.0
+252,1977,west,Montana,561.0,2.0,563.0
+253,1977,west,Nevada,1084.0,65.0,1149.0
+254,1977,west,New Mexico,1510.0,62.0,1572.0
+255,1977,west,Oregon,2805.0,113.0,2918.0
+256,1977,west,Utah,776.0,30.0,806.0
+257,1977,west,Washington,3934.0,226.0,4160.0
+258,1977,west,Wyoming,384.0,16.0,400.0
+259,1978,aggregate,Federal,27975.0,1828.0,29803.0
+260,1978,aggregate,Midwest,85995.0,4114.0,90109.0
+261,1978,aggregate,Northeast,64034.0,2430.0,66464.0
+262,1978,aggregate,South,190460.0,8713.0,199173.0
+263,1978,aggregate,State Total,415394.0,20473.0,435867.0
+264,1978,aggregate,U.S. Total,294530.0,12746.0,307276.0
+265,1978,aggregate,West,74905.0,5216.0,80121.0
+266,1978,midwest,Illinois,16417.0,622.0,17039.0
+267,1978,midwest,Indiana,7088.0,288.0,7376.0
+268,1978,midwest,Iowa,2520.0,126.0,2646.0
+269,1978,midwest,Kansas,3180.0,159.0,3339.0
+270,1978,midwest,Michigan,19605.0,1068.0,20673.0
+271,1978,midwest,Minnesota,3309.0,162.0,3471.0
+272,1978,midwest,Missouri,8123.0,363.0,8486.0
+273,1978,midwest,Nebraska,1911.0,112.0,2023.0
+274,1978,midwest,North Dakota,301.0,17.0,318.0
+275,1978,midwest,Ohio,17678.0,894.0,18572.0
+276,1978,midwest,South Dakota,772.0,36.0,808.0
+277,1978,midwest,Wisconsin,5091.0,267.0,5358.0
+278,1978,northeast,Connecticut,3044.0,145.0,3189.0
+279,1978,northeast,Maine,1011.0,25.0,1036.0
+280,1978,northeast,Massachusetts,5005.0,118.0,5123.0
+281,1978,northeast,New Hampshire,624.0,29.0,653.0
+282,1978,northeast,New Jersey,9341.0,401.0,9742.0
+283,1978,northeast,New York,30201.0,1194.0,31395.0
+284,1978,northeast,Pennsylvania,13730.0,491.0,14221.0
+285,1978,northeast,Rhode Island,648.0,16.0,664.0
+286,1978,northeast,Vermont,430.0,11.0,441.0
+287,1978,south,Alabama,10271.0,403.0,10674.0
+288,1978,south,Arkansas,3814.0,174.0,3988.0
+289,1978,south,Delaware,1261.0,64.0,1325.0
+290,1978,south,District of Columbia,4076.0,195.0,4271.0
+291,1978,south,Florida,30187.0,1554.0,31741.0
+292,1978,south,Georgia,18695.0,900.0,19595.0
+293,1978,south,Kentucky,5303.0,236.0,5539.0
+294,1978,south,Louisiana,12079.0,444.0,12523.0
+295,1978,south,Maryland,11140.0,379.0,11519.0
+296,1978,south,Mississippi,5095.0,228.0,5323.0
+297,1978,south,North Carolina,15353.0,697.0,16050.0
+298,1978,south,Oklahoma,5560.0,330.0,5890.0
+299,1978,south,South Carolina,9515.0,383.0,9898.0
+300,1978,south,Tennessee,9904.0,484.0,10388.0
+301,1978,south,Texas,33938.0,1632.0,35570.0
+302,1978,south,Virginia,12044.0,532.0,12576.0
+303,1978,south,West Virginia,2225.0,78.0,2303.0
+304,1978,west,Alaska,719.0,37.0,756.0
+305,1978,west,Arizona,5438.0,519.0,5957.0
+306,1978,west,California,44214.0,3317.0,47531.0
+307,1978,west,Colorado,4017.0,150.0,4167.0
+308,1978,west,Hawaii,690.0,37.0,727.0
+309,1978,west,Idaho,1280.0,61.0,1341.0
+310,1978,west,Montana,979.0,35.0,1014.0
+311,1978,west,Nevada,2095.0,167.0,2262.0
+312,1978,west,New Mexico,2267.0,120.0,2387.0
+313,1978,west,Oregon,4507.0,244.0,4751.0
+314,1978,west,Utah,1518.0,69.0,1587.0
+315,1978,west,Washington,6524.0,416.0,6940.0
+316,1978,west,Wyoming,657.0,44.0,701.0
+317,1979,aggregate,Federal,24835.0,1536.0,26371.0
+318,1979,aggregate,Midwest,61039.0,2576.0,63615.0
+319,1979,aggregate,Northeast,42413.0,1313.0,43726.0
+320,1979,aggregate,South,131006.0,5422.0,136428.0
+321,1979,aggregate,State Total,276627.0,11459.0,288086.0
+322,1979,aggregate,U.S. Total,301462.0,12995.0,314457.0
+323,1979,aggregate,West,42169.0,2148.0,44317.0
+324,1979,midwest,Illinois,11469.0,466.0,11935.0
+325,1979,midwest,Indiana,5475.0,192.0,5667.0
+326,1979,midwest,Iowa,2176.0,96.0,2272.0
+327,1979,midwest,Kansas,2208.0,82.0,2290.0
+328,1979,midwest,Michigan,14374.0,628.0,15002.0
+329,1979,midwest,Minnesota,2017.0,77.0,2094.0
+330,1979,midwest,Missouri,5076.0,203.0,5279.0
+331,1979,midwest,Nebraska,1228.0,63.0,1291.0
+332,1979,midwest,North Dakota,184.0,2.0,186.0
+333,1979,midwest,Ohio,12762.0,598.0,13360.0
+334,1979,midwest,South Dakota,538.0,24.0,562.0
+335,1979,midwest,Wisconsin,3532.0,145.0,3677.0
+336,1979,northeast,Connecticut,3919.0,142.0,4061.0
+337,1979,northeast,Maine,758.0,18.0,776.0
+338,1979,northeast,Massachusetts,2837.0,87.0,2924.0
+339,1979,northeast,New Hampshire,311.0,5.0,316.0
+340,1979,northeast,New Jersey,5664.0,188.0,5852.0
+341,1979,northeast,New York,20259.0,597.0,20856.0
+342,1979,northeast,Pennsylvania,7524.0,248.0,7772.0
+343,1979,northeast,Rhode Island,721.0,17.0,738.0
+344,1979,northeast,Vermont,420.0,11.0,431.0
+345,1979,south,Alabama,5221.0,243.0,5464.0
+346,1979,south,Arkansas,2927.0,115.0,3042.0
+347,1979,south,Delaware,1355.0,64.0,1419.0
+348,1979,south,District of Columbia,2899.0,74.0,2973.0
+349,1979,south,Florida,18919.0,829.0,19748.0
+350,1979,south,Georgia,11556.0,550.0,12106.0
+351,1979,south,Kentucky,3550.0,141.0,3691.0
+352,1979,south,Louisiana,7382.0,236.0,7618.0
+353,1979,south,Maryland,7638.0,222.0,7860.0
+354,1979,south,Mississippi,3401.0,107.0,3508.0
+355,1979,south,North Carolina,13691.0,564.0,14255.0
+356,1979,south,Oklahoma,4073.0,177.0,4250.0
+357,1979,south,South Carolina,7327.0,316.0,7643.0
+358,1979,south,Tennessee,6346.0,283.0,6629.0
+359,1979,south,Texas,25355.0,1167.0,26522.0
+360,1979,south,Virginia,8148.0,301.0,8449.0
+361,1979,south,West Virginia,1218.0,33.0,1251.0
+362,1979,west,Alaska,729.0,31.0,760.0
+363,1979,west,Arizona,3573.0,176.0,3749.0
+364,1979,west,California,21400.0,1232.0,22632.0
+365,1979,west,Colorado,2587.0,81.0,2668.0
+366,1979,west,Hawaii,809.0,47.0,856.0
+367,1979,west,Idaho,796.0,34.0,830.0
+368,1979,west,Montana,695.0,20.0,715.0
+369,1979,west,Nevada,1475.0,91.0,1566.0
+370,1979,west,New Mexico,1509.0,47.0,1556.0
+371,1979,west,Oregon,3059.0,120.0,3179.0
+372,1979,west,Utah,926.0,34.0,960.0
+373,1979,west,Washington,4137.0,205.0,4342.0
+374,1979,west,Wyoming,474.0,30.0,504.0
+375,1980,aggregate,Federal,22964.0,1399.0,24363.0
+376,1980,aggregate,Midwest,63621.0,2590.0,66211.0
+377,1980,aggregate,Northeast,44333.0,1463.0,45796.0
+378,1980,aggregate,South,140599.0,5759.0,146358.0
+379,1980,aggregate,State Total,293437.0,12021.0,305458.0
+380,1980,aggregate,U.S. Total,439228.0,27143.0,466371.0
+381,1980,aggregate,West,44884.0,2209.0,47093.0
+382,1980,midwest,Illinois,18058.0,1250.0,19308.0
+383,1980,midwest,Indiana,8904.0,315.0,9219.0
+384,1980,midwest,Iowa,2619.0,170.0,2789.0
+385,1980,midwest,Kansas,5589.0,142.0,5731.0
+386,1980,midwest,Michigan,19000.0,938.0,19938.0
+387,1980,midwest,Minnesota,4086.0,219.0,4305.0
+388,1980,midwest,Missouri,7907.0,364.0,8271.0
+389,1980,midwest,Nebraska,1828.0,172.0,2000.0
+390,1980,midwest,North Dakota,468.0,21.0,489.0
+391,1980,midwest,Ohio,17937.0,1177.0,19114.0
+392,1980,midwest,South Dakota,1082.0,231.0,1313.0
+393,1980,midwest,Wisconsin,5859.0,313.0,6172.0
+394,1980,northeast,Connecticut,4510.0,206.0,4702.0
+395,1980,northeast,Maine,1053.0,24.0,1077.0
+396,1980,northeast,Massachusetts,4939.0,328.0,5267.0
+397,1980,northeast,New Hampshire,474.0,5.0,474.0
+398,1980,northeast,New Jersey,9704.0,557.0,10261.0
+399,1980,northeast,New York,32369.0,1388.0,33757.0
+400,1980,northeast,Pennsylvania,15788.0,591.0,16379.0
+401,1980,northeast,Rhode Island,787.0,26.0,813.0
+402,1980,northeast,Vermont,464.0,17.0,480.0
+403,1980,south,Alabama,7620.0,536.0,8156.0
+404,1980,south,Arkansas,3588.0,142.0,3730.0
+405,1980,south,Delaware,1417.0,78.0,1474.0
+406,1980,south,District of Columbia,3075.0,106.0,3145.0
+407,1980,south,Florida,28477.0,1731.0,30208.0
+408,1980,south,Georgia,18318.0,1150.0,19468.0
+409,1980,south,Kentucky,7042.0,678.0,7720.0
+410,1980,south,Louisiana,13060.0,838.0,13898.0
+411,1980,south,Maryland,10460.0,432.0,10892.0
+412,1980,south,Mississippi,4359.0,238.0,4597.0
+413,1980,south,North Carolina,18577.0,1873.0,20450.0
+414,1980,south,Oklahoma,6458.0,247.0,6671.0
+415,1980,south,South Carolina,8778.0,327.0,9085.0
+416,1980,south,Tennessee,10124.0,369.0,10493.0
+417,1980,south,Texas,39207.0,2261.0,41468.0
+418,1980,south,Virginia,14110.0,530.0,14640.0
+419,1980,south,West Virginia,1906.0,1063.0,2969.0
+420,1980,west,Alaska,801.0,33.0,822.0
+421,1980,west,Arizona,5705.0,354.0,6059.0
+422,1980,west,California,49868.0,4432.0,54300.0
+423,1980,west,Colorado,4529.0,208.0,4737.0
+424,1980,west,Hawaii,954.0,84.0,985.0
+425,1980,west,Idaho,1372.0,26.0,1398.0
+426,1980,west,Montana,834.0,48.0,882.0
+427,1980,west,Nevada,1739.0,111.0,1839.0
+428,1980,west,New Mexico,1686.0,77.0,1763.0
+429,1980,west,Oregon,4523.0,259.0,4782.0
+430,1980,west,Utah,1849.0,170.0,2019.0
+431,1980,west,Washington,7425.0,324.0,7749.0
+432,1980,west,Wyoming,550.0,49.0,599.0
+433,1981,aggregate,Federal,26574.0,1559.0,28133.0
+434,1981,aggregate,Midwest,70236.0,2980.0,73216.0
+435,1981,aggregate,Northeast,52027.0,1881.0,53908.0
+436,1981,aggregate,South,152846.0,6671.0,159517.0
+437,1981,aggregate,State Total,327819.0,13978.0,341797.0
+438,1981,aggregate,U.S. Total,354393.0,15537.0,369930.0
+439,1981,aggregate,West,52710.0,2446.0,55156.0
+440,1981,midwest,Illinois,13870.0,458.0,14328.0
+441,1981,midwest,Indiana,7736.0,286.0,8022.0
+442,1981,midwest,Iowa,2556.0,114.0,2670.0
+443,1981,midwest,Kansas,2625.0,145.0,2770.0
+444,1981,midwest,Michigan,14527.0,630.0,15157.0
+445,1981,midwest,Minnesota,1910.0,56.0,1966.0
+446,1981,midwest,Missouri,6224.0,265.0,6489.0
+447,1981,midwest,Nebraska,1426.0,62.0,1488.0
+448,1981,midwest,North Dakota,277.0,3.0,280.0
+449,1981,midwest,Ohio,14205.0,763.0,14968.0
+450,1981,midwest,South Dakota,664.0,29.0,693.0
+451,1981,midwest,Wisconsin,4216.0,169.0,4385.0
+452,1981,northeast,Connecticut,5011.0,252.0,5263.0
+453,1981,northeast,Maine,966.0,26.0,992.0
+454,1981,northeast,Massachusetts,3697.0,192.0,3889.0
+455,1981,northeast,New Hampshire,391.0,7.0,398.0
+456,1981,northeast,New Jersey,6725.0,286.0,7011.0
+457,1981,northeast,New York,24728.0,766.0,25494.0
+458,1981,northeast,Pennsylvania,9053.0,312.0,9365.0
+459,1981,northeast,Rhode Island,937.0,25.0,962.0
+460,1981,northeast,Vermont,519.0,15.0,534.0
+461,1981,south,Alabama,7339.0,318.0,7657.0
+462,1981,south,Arkansas,3197.0,131.0,3328.0
+463,1981,south,Delaware,1637.0,75.0,1712.0
+464,1981,south,District of Columbia,3363.0,116.0,3479.0
+465,1981,south,Florida,22595.0,994.0,23589.0
+466,1981,south,Georgia,11839.0,605.0,12444.0
+467,1981,south,Kentucky,3863.0,130.0,3993.0
+468,1981,south,Louisiana,9071.0,344.0,9415.0
+469,1981,south,Maryland,9031.0,304.0,9335.0
+470,1981,south,Mississippi,4475.0,149.0,4624.0
+471,1981,south,North Carolina,15133.0,637.0,15770.0
+472,1981,south,Oklahoma,5006.0,275.0,5281.0
+473,1981,south,South Carolina,8177.0,361.0,8538.0
+474,1981,south,Tennessee,7502.0,395.0,7897.0
+475,1981,south,Texas,30050.0,1452.0,31502.0
+476,1981,south,Virginia,9040.0,348.0,9388.0
+477,1981,south,West Virginia,1528.0,37.0,1565.0
+478,1981,west,Alaska,977.0,47.0,1024.0
+479,1981,west,Arizona,4986.0,237.0,5223.0
+480,1981,west,California,27775.0,1427.0,29202.0
+481,1981,west,Colorado,2691.0,81.0,2772.0
+482,1981,west,Hawaii,1158.0,49.0,1207.0
+483,1981,west,Idaho,932.0,25.0,957.0
+484,1981,west,Montana,807.0,24.0,831.0
+485,1981,west,Nevada,2030.0,86.0,2116.0
+486,1981,west,New Mexico,1407.0,90.0,1497.0
+487,1981,west,Oregon,3192.0,103.0,3295.0
+488,1981,west,Utah,1099.0,41.0,1140.0
+489,1981,west,Washington,5124.0,212.0,5336.0
+490,1981,west,Wyoming,532.0,24.0,556.0
+491,1982,aggregate,Federal,28046.0,1627.0,29673.0
+492,1982,aggregate,Midwest,74872.0,3440.0,78312.0
+493,1982,aggregate,Northeast,57353.0,1972.0,59325.0
+494,1982,aggregate,South,173602.0,7849.0,181451.0
+495,1982,aggregate,State Total,367975.0,16158.0,384133.0
+496,1982,aggregate,U.S. Total,396021.0,17785.0,413806.0
+497,1982,aggregate,West,62148.0,2897.0,65045.0
+498,1982,midwest,Illinois,13806.0,487.0,14293.0
+499,1982,midwest,Indiana,8440.0,350.0,8790.0
+500,1982,midwest,Iowa,2708.0,121.0,2829.0
+501,1982,midwest,Kansas,2918.0,160.0,3078.0
+502,1982,midwest,Michigan,14289.0,624.0,14913.0
+503,1982,midwest,Minnesota,2008.0,73.0,2081.0
+504,1982,midwest,Missouri,7051.0,394.0,7445.0
+505,1982,midwest,Nebraska,1658.0,81.0,1739.0
+506,1982,midwest,North Dakota,312.0,10.0,322.0
+507,1982,midwest,Ohio,16417.0,900.0,17317.0
+508,1982,midwest,South Dakota,748.0,43.0,791.0
+509,1982,midwest,Wisconsin,4517.0,197.0,4714.0
+510,1982,northeast,Connecticut,4952.0,204.0,5156.0
+511,1982,northeast,Maine,1080.0,30.0,1110.0
+512,1982,northeast,Massachusetts,4117.0,217.0,4334.0
+513,1982,northeast,New Hampshire,435.0,10.0,445.0
+514,1982,northeast,New Jersey,7867.0,324.0,8191.0
+515,1982,northeast,New York,27127.0,818.0,27945.0
+516,1982,northeast,Pennsylvania,10180.0,328.0,10508.0
+517,1982,northeast,Rhode Island,1013.0,24.0,1037.0
+518,1982,northeast,Vermont,582.0,17.0,599.0
+519,1982,south,Alabama,8757.0,476.0,9233.0
+520,1982,south,Arkansas,3755.0,167.0,3922.0
+521,1982,south,Delaware,1969.0,99.0,2068.0
+522,1982,south,District of Columbia,3902.0,179.0,4081.0
+523,1982,south,Florida,26584.0,1246.0,27830.0
+524,1982,south,Georgia,13745.0,660.0,14405.0
+525,1982,south,Kentucky,3872.0,159.0,4031.0
+526,1982,south,Louisiana,10514.0,416.0,10930.0
+527,1982,south,Maryland,11251.0,366.0,11617.0
+528,1982,south,Mississippi,5298.0,186.0,5484.0
+529,1982,south,North Carolina,15873.0,696.0,16569.0
+530,1982,south,Oklahoma,6174.0,326.0,6500.0
+531,1982,south,South Carolina,8732.0,405.0,9137.0
+532,1982,south,Tennessee,7489.0,380.0,7869.0
+533,1982,south,Texas,34472.0,1677.0,36149.0
+534,1982,south,Virginia,9715.0,364.0,10079.0
+535,1982,south,West Virginia,1500.0,47.0,1547.0
+536,1982,west,Alaska,1276.0,46.0,1322.0
+537,1982,west,Arizona,5788.0,281.0,6069.0
+538,1982,west,California,32987.0,1653.0,34640.0
+539,1982,west,Colorado,2923.0,119.0,3042.0
+540,1982,west,Hawaii,1386.0,75.0,1461.0
+541,1982,west,Idaho,1013.0,31.0,1044.0
+542,1982,west,Montana,885.0,29.0,914.0
+543,1982,west,Nevada,2634.0,119.0,2753.0
+544,1982,west,New Mexico,1635.0,83.0,1718.0
+545,1982,west,Oregon,3760.0,140.0,3900.0
+546,1982,west,Utah,1169.0,47.0,1216.0
+547,1982,west,Washington,6018.0,246.0,6264.0
+548,1982,west,Wyoming,674.0,28.0,702.0
+549,1983,aggregate,Federal,30172.0,1754.0,31926.0
+550,1983,aggregate,Midwest,115252.0,6139.0,121391.0
+551,1983,aggregate,Northeast,97073.0,4201.0,101274.0
+552,1983,aggregate,South,261384.0,13834.0,275218.0
+553,1983,aggregate,State Total,595445.0,33035.0,628480.0
+554,1983,aggregate,U.S. Total,417835.0,19020.0,436855.0
+555,1983,aggregate,West,121736.0,8861.0,130597.0
+556,1983,midwest,Illinois,23506.0,938.0,24444.0
+557,1983,midwest,Indiana,12266.0,629.0,12895.0
+558,1983,midwest,Iowa,3498.0,155.0,3653.0
+559,1983,midwest,Kansas,4744.0,289.0,5033.0
+560,1983,midwest,Michigan,20914.0,1233.0,22147.0
+561,1983,midwest,Minnesota,3895.0,172.0,4067.0
+562,1983,midwest,Missouri,11316.0,570.0,11886.0
+563,1983,midwest,Nebraska,2367.0,106.0,2473.0
+564,1983,midwest,North Dakota,622.0,31.0,653.0
+565,1983,midwest,Ohio,23579.0,1544.0,25123.0
+566,1983,midwest,South Dakota,1074.0,68.0,1142.0
+567,1983,midwest,Wisconsin,7471.0,404.0,7875.0
+568,1983,northeast,Connecticut,5193.0,281.0,5474.0
+569,1983,northeast,Maine,1596.0,46.0,1642.0
+570,1983,northeast,Massachusetts,7545.0,241.0,7786.0
+571,1983,northeast,New Hampshire,916.0,38.0,954.0
+572,1983,northeast,New Jersey,14446.0,717.0,15163.0
+573,1983,northeast,New York,44779.0,1885.0,46664.0
+574,1983,northeast,Pennsylvania,20990.0,947.0,21937.0
+575,1983,northeast,Rhode Island,1120.0,37.0,1157.0
+576,1983,northeast,Vermont,488.0,9.0,497.0
+577,1983,south,Alabama,13591.0,729.0,14320.0
+578,1983,south,Arkansas,5558.0,290.0,5848.0
+579,1983,south,Delaware,2091.0,107.0,2198.0
+580,1983,south,District of Columbia,6687.0,500.0,7187.0
+581,1983,south,Florida,38643.0,2359.0,41002.0
+582,1983,south,Georgia,24267.0,1305.0,25572.0
+583,1983,south,Kentucky,8052.0,432.0,8484.0
+584,1983,south,Louisiana,20325.0,994.0,21319.0
+585,1983,south,Maryland,16551.0,674.0,17225.0
+586,1983,south,Mississippi,7755.0,329.0,8084.0
+587,1983,south,North Carolina,18111.0,780.0,18891.0
+588,1983,south,Oklahoma,9065.0,630.0,9695.0
+589,1983,south,South Carolina,11722.0,544.0,12266.0
+590,1983,south,Tennessee,13417.0,789.0,14206.0
+591,1983,south,Texas,48004.0,2479.0,50483.0
+592,1983,south,Virginia,15029.0,783.0,15812.0
+593,1983,south,West Virginia,2516.0,110.0,2626.0
+594,1983,west,Alaska,1589.0,79.0,1668.0
+595,1983,west,Arizona,9322.0,507.0,9829.0
+596,1983,west,California,74665.0,6428.0,81093.0
+597,1983,west,Colorado,5699.0,292.0,5991.0
+598,1983,west,Hawaii,1591.0,109.0,1700.0
+599,1983,west,Idaho,1710.0,81.0,1791.0
+600,1983,west,Montana,1248.0,60.0,1308.0
+601,1983,west,Nevada,3871.0,257.0,4128.0
+602,1983,west,New Mexico,3179.0,144.0,3323.0
+603,1983,west,Oregon,5970.0,286.0,6256.0
+604,1983,west,Utah,2085.0,95.0,2180.0
+605,1983,west,Washington,9806.0,462.0,10268.0
+606,1983,west,Wyoming,1001.0,61.0,1062.0
+607,1984,aggregate,Federal,32267.0,1996.0,34263.0
+608,1984,aggregate,Midwest,81827.0,3837.0,85664.0
+609,1984,aggregate,Northeast,67999.0,2499.0,70498.0
+610,1984,aggregate,South,183706.0,8559.0,192265.0
+611,1984,aggregate,State Total,408941.0,18798.0,427739.0
+612,1984,aggregate,U.S. Total,441208.0,20794.0,462002.0
+613,1984,aggregate,West,75409.0,3903.0,79312.0
+614,1984,midwest,Illinois,16479.0,635.0,17114.0
+615,1984,midwest,Indiana,8933.0,395.0,9328.0
+616,1984,midwest,Iowa,2733.0,103.0,2836.0
+617,1984,midwest,Kansas,4009.0,235.0,4244.0
+618,1984,midwest,Michigan,13921.0,683.0,14604.0
+619,1984,midwest,Minnesota,2088.0,79.0,2167.0
+620,1984,midwest,Missouri,8425.0,345.0,8770.0
+621,1984,midwest,Nebraska,1582.0,73.0,1655.0
+622,1984,midwest,North Dakota,420.0,12.0,432.0
+623,1984,midwest,Ohio,17601.0,1018.0,18619.0
+624,1984,midwest,South Dakota,889.0,32.0,921.0
+625,1984,midwest,Wisconsin,4747.0,227.0,4974.0
+626,1984,northeast,Connecticut,5431.0,287.0,5718.0
+627,1984,northeast,Maine,1005.0,27.0,1032.0
+628,1984,northeast,Massachusetts,4619.0,264.0,4883.0
+629,1984,northeast,New Hampshire,567.0,14.0,581.0
+630,1984,northeast,New Jersey,9995.0,368.0,10363.0
+631,1984,northeast,New York,32091.0,1018.0,33109.0
+632,1984,northeast,Pennsylvania,12615.0,475.0,13090.0
+633,1984,northeast,Rhode Island,1188.0,33.0,1221.0
+634,1984,northeast,Vermont,488.0,13.0,501.0
+635,1984,south,Alabama,9961.0,521.0,10482.0
+636,1984,south,Arkansas,4286.0,196.0,4482.0
+637,1984,south,Delaware,2095.0,107.0,2202.0
+638,1984,south,District of Columbia,4315.0,206.0,4521.0
+639,1984,south,Florida,25764.0,1150.0,26914.0
+640,1984,south,Georgia,14641.0,763.0,15404.0
+641,1984,south,Kentucky,4617.0,203.0,4820.0
+642,1984,south,Louisiana,13051.0,608.0,13659.0
+643,1984,south,Maryland,12683.0,441.0,13124.0
+644,1984,south,Mississippi,5855.0,260.0,6115.0
+645,1984,south,North Carolina,15669.0,702.0,16371.0
+646,1984,south,Oklahoma,7400.0,472.0,7872.0
+647,1984,south,South Carolina,9455.0,437.0,9892.0
+648,1984,south,Tennessee,6993.0,314.0,7307.0
+649,1984,south,Texas,34987.0,1695.0,36682.0
+650,1984,south,Virginia,10406.0,433.0,10839.0
+651,1984,south,West Virginia,1528.0,51.0,1579.0
+652,1984,west,Alaska,1888.0,79.0,1967.0
+653,1984,west,Arizona,7482.0,363.0,7845.0
+654,1984,west,California,40892.0,2305.0,43197.0
+655,1984,west,Colorado,3091.0,140.0,3231.0
+656,1984,west,Hawaii,1858.0,107.0,1965.0
+657,1984,west,Idaho,1203.0,50.0,1253.0
+658,1984,west,Montana,929.0,35.0,964.0
+659,1984,west,Nevada,3260.0,228.0,3488.0
+660,1984,west,New Mexico,2044.0,85.0,2129.0
+661,1984,west,Oregon,4054.0,170.0,4224.0
+662,1984,west,Utah,1456.0,48.0,1504.0
+663,1984,west,Washington,6567.0,254.0,6821.0
+664,1984,west,Wyoming,685.0,39.0,724.0
+665,1985,aggregate,Federal,37819.0,2404.0,40223.0
+666,1985,aggregate,Midwest,91260.0,4317.0,95577.0
+667,1985,aggregate,Northeast,72878.0,2713.0,75591.0
+668,1985,aggregate,South,193367.0,8987.0,202354.0
+669,1985,aggregate,State Total,441540.0,20744.0,462284.0
+670,1985,aggregate,U.S. Total,479359.0,23148.0,502507.0
+671,1985,aggregate,West,84035.0,4727.0,88762.0
+672,1985,midwest,Illinois,17961.0,673.0,18634.0
+673,1985,midwest,Indiana,9605.0,451.0,10056.0
+674,1985,midwest,Iowa,2577.0,110.0,2687.0
+675,1985,midwest,Kansas,4459.0,273.0,4732.0
+676,1985,midwest,Michigan,16941.0,814.0,17755.0
+677,1985,midwest,Minnesota,2252.0,91.0,2343.0
+678,1985,midwest,Missouri,9415.0,381.0,9796.0
+679,1985,midwest,Nebraska,1744.0,70.0,1814.0
+680,1985,midwest,North Dakota,413.0,9.0,422.0
+681,1985,midwest,Ohio,19711.0,1153.0,20864.0
+682,1985,midwest,South Dakota,1008.0,41.0,1049.0
+683,1985,midwest,Wisconsin,5174.0,251.0,5425.0
+684,1985,northeast,Connecticut,5826.0,323.0,6149.0
+685,1985,northeast,Maine,1285.0,32.0,1317.0
+686,1985,northeast,Massachusetts,5079.0,311.0,5390.0
+687,1985,northeast,New Hampshire,665.0,18.0,683.0
+688,1985,northeast,New Jersey,10947.0,388.0,11335.0
+689,1985,northeast,New York,33422.0,1085.0,34507.0
+690,1985,northeast,Pennsylvania,13727.0,500.0,14227.0
+691,1985,northeast,Rhode Island,1267.0,39.0,1306.0
+692,1985,northeast,Vermont,660.0,17.0,677.0
+693,1985,south,Alabama,10453.0,562.0,11015.0
+694,1985,south,Arkansas,4394.0,217.0,4611.0
+695,1985,south,Delaware,2422.0,131.0,2553.0
+696,1985,south,District of Columbia,6176.0,228.0,6404.0
+697,1985,south,Florida,27296.0,1304.0,28600.0
+698,1985,south,Georgia,15427.0,835.0,16262.0
+699,1985,south,Kentucky,4768.0,213.0,4981.0
+700,1985,south,Louisiana,13280.0,610.0,13890.0
+701,1985,south,Maryland,12594.0,411.0,13005.0
+702,1985,south,Mississippi,6103.0,289.0,6392.0
+703,1985,south,North Carolina,16597.0,747.0,17344.0
+704,1985,south,Oklahoma,7823.0,507.0,8330.0
+705,1985,south,South Carolina,10009.0,501.0,10510.0
+706,1985,south,Tennessee,6825.0,302.0,7127.0
+707,1985,south,Texas,35938.0,1594.0,37532.0
+708,1985,south,Virginia,11604.0,469.0,12073.0
+709,1985,south,West Virginia,1658.0,67.0,1725.0
+710,1985,west,Alaska,2207.0,122.0,2329.0
+711,1985,west,Arizona,8134.0,397.0,8531.0
+712,1985,west,California,47248.0,2910.0,50158.0
+713,1985,west,Colorado,3238.0,148.0,3386.0
+714,1985,west,Hawaii,1963.0,148.0,2111.0
+715,1985,west,Idaho,1293.0,51.0,1344.0
+716,1985,west,Montana,1090.0,39.0,1129.0
+717,1985,west,Nevada,3512.0,259.0,3771.0
+718,1985,west,New Mexico,2187.0,126.0,2313.0
+719,1985,west,Oregon,4188.0,188.0,4376.0
+720,1985,west,Utah,1570.0,63.0,1633.0
+721,1985,west,Washington,6689.0,230.0,6919.0
+722,1985,west,Wyoming,716.0,46.0,762.0
+723,1986,aggregate,Federal,41575.0,2833.0,44408.0
+724,1986,aggregate,Midwest,98211.0,4800.0,103011.0
+725,1986,aggregate,Northeast,79203.0,3161.0,82364.0
+726,1986,aggregate,South,204087.0,10204.0,214291.0
+727,1986,aggregate,State Total,476866.0,23698.0,500564.0
+728,1986,aggregate,U.S. Total,518441.0,26531.0,544972.0
+729,1986,aggregate,West,95365.0,5533.0,100898.0
+730,1986,midwest,Illinois,18692.0,764.0,19456.0
+731,1986,midwest,Indiana,9771.0,404.0,10175.0
+732,1986,midwest,Iowa,2653.0,124.0,2777.0
+733,1986,midwest,Kansas,5048.0,297.0,5345.0
+734,1986,midwest,Michigan,19724.0,1018.0,20742.0
+735,1986,midwest,Minnesota,2365.0,97.0,2462.0
+736,1986,midwest,Missouri,9856.0,453.0,10309.0
+737,1986,midwest,Nebraska,1959.0,85.0,2044.0
+738,1986,midwest,North Dakota,410.0,11.0,421.0
+739,1986,midwest,Ohio,21250.0,1213.0,22463.0
+740,1986,midwest,South Dakota,1032.0,49.0,1081.0
+741,1986,midwest,Wisconsin,5451.0,285.0,5736.0
+742,1986,northeast,Connecticut,6510.0,395.0,6905.0
+743,1986,northeast,Maine,1289.0,27.0,1316.0
+744,1986,northeast,Massachusetts,5310.0,326.0,5636.0
+745,1986,northeast,New Hampshire,760.0,22.0,782.0
+746,1986,northeast,New Jersey,11603.0,417.0,12020.0
+747,1986,northeast,New York,37123.0,1326.0,38449.0
+748,1986,northeast,Pennsylvania,14610.0,591.0,15201.0
+749,1986,northeast,Rhode Island,1312.0,46.0,1358.0
+750,1986,northeast,Vermont,686.0,11.0,697.0
+751,1986,south,Alabama,11094.0,616.0,11710.0
+752,1986,south,Arkansas,4477.0,224.0,4701.0
+753,1986,south,Delaware,2677.0,156.0,2833.0
+754,1986,south,District of Columbia,6369.0,249.0,6618.0
+755,1986,south,Florida,30602.0,1635.0,32237.0
+756,1986,south,Georgia,16025.0,897.0,16922.0
+757,1986,south,Kentucky,5067.0,221.0,5288.0
+758,1986,south,Louisiana,13673.0,627.0,14300.0
+759,1986,south,Maryland,12882.0,444.0,13326.0
+760,1986,south,Mississippi,6443.0,304.0,6747.0
+761,1986,south,North Carolina,16868.0,830.0,17698.0
+762,1986,south,Oklahoma,9021.0,687.0,9708.0
+763,1986,south,South Carolina,11075.0,601.0,11676.0
+764,1986,south,Tennessee,7178.0,413.0,7591.0
+765,1986,south,Texas,36789.0,1745.0,38534.0
+766,1986,south,Virginia,12442.0,488.0,12930.0
+767,1986,south,West Virginia,1405.0,67.0,1472.0
+768,1986,west,Alaska,2344.0,116.0,2460.0
+769,1986,west,Arizona,8948.0,486.0,9434.0
+770,1986,west,California,55920.0,3564.0,59484.0
+771,1986,west,Colorado,3627.0,177.0,3804.0
+772,1986,west,Hawaii,2044.0,136.0,2180.0
+773,1986,west,Idaho,1387.0,61.0,1448.0
+774,1986,west,Montana,1069.0,42.0,1111.0
+775,1986,west,Nevada,4326.0,225.0,4551.0
+776,1986,west,New Mexico,2273.0,143.0,2416.0
+777,1986,west,Oregon,4532.0,238.0,4770.0
+778,1986,west,Utah,1704.0,72.0,1776.0
+779,1986,west,Washington,6381.0,222.0,6603.0
+780,1986,west,Wyoming,810.0,51.0,861.0
+781,1987,aggregate,Federal,45273.0,3027.0,48300.0
+782,1987,aggregate,Midwest,105779.0,5344.0,111123.0
+783,1987,aggregate,Northeast,87455.0,3755.0,91210.0
+784,1987,aggregate,South,212297.0,10528.0,222825.0
+785,1987,aggregate,State Total,510688.0,26096.0,536784.0
+786,1987,aggregate,U.S. Total,555961.0,29123.0,585084.0
+787,1987,aggregate,West,105157.0,6469.0,111626.0
+788,1987,midwest,Illinois,19071.0,779.0,19850.0
+789,1987,midwest,Indiana,10336.0,491.0,10827.0
+790,1987,midwest,Iowa,2729.0,122.0,2851.0
+791,1987,midwest,Kansas,5505.0,276.0,5781.0
+792,1987,midwest,Michigan,22696.0,1183.0,23879.0
+793,1987,midwest,Minnesota,2431.0,115.0,2546.0
+794,1987,midwest,Missouri,10728.0,629.0,11357.0
+795,1987,midwest,Nebraska,1991.0,95.0,2086.0
+796,1987,midwest,North Dakota,423.0,7.0,430.0
+797,1987,midwest,Ohio,22945.0,1295.0,24240.0
+798,1987,midwest,South Dakota,1080.0,53.0,1133.0
+799,1987,midwest,Wisconsin,5844.0,299.0,6143.0
+800,1987,northeast,Connecticut,7059.0,452.0,7511.0
+801,1987,northeast,Maine,1270.0,29.0,1299.0
+802,1987,northeast,Massachusetts,5859.0,409.0,6268.0
+803,1987,northeast,New Hampshire,849.0,18.0,867.0
+804,1987,northeast,New Jersey,15382.0,587.0,15969.0
+805,1987,northeast,New York,39355.0,1487.0,40842.0
+806,1987,northeast,Pennsylvania,15588.0,679.0,16267.0
+807,1987,northeast,Rhode Island,1348.0,80.0,1428.0
+808,1987,northeast,Vermont,745.0,14.0,759.0
+809,1987,south,Alabama,12095.0,732.0,12827.0
+810,1987,south,Arkansas,5179.0,262.0,5441.0
+811,1987,south,Delaware,2816.0,166.0,2982.0
+812,1987,south,District of Columbia,7295.0,350.0,7645.0
+813,1987,south,Florida,30764.0,1681.0,32445.0
+814,1987,south,Georgia,17647.0,928.0,18575.0
+815,1987,south,Kentucky,6144.0,293.0,6437.0
+816,1987,south,Louisiana,14702.0,673.0,15375.0
+817,1987,south,Maryland,13010.0,457.0,13467.0
+818,1987,south,Mississippi,6557.0,323.0,6880.0
+819,1987,south,North Carolina,16410.0,808.0,17218.0
+820,1987,south,Oklahoma,8945.0,694.0,9639.0
+821,1987,south,South Carolina,12003.0,661.0,12664.0
+822,1987,south,Tennessee,7249.0,390.0,7639.0
+823,1987,south,Texas,37279.0,1542.0,38821.0
+824,1987,south,Virginia,12822.0,499.0,13321.0
+825,1987,south,West Virginia,1380.0,69.0,1449.0
+826,1987,west,Alaska,2408.0,120.0,2528.0
+827,1987,west,Arizona,10339.0,609.0,10948.0
+828,1987,west,California,62823.0,4152.0,66975.0
+829,1987,west,Colorado,4565.0,243.0,4808.0
+830,1987,west,Hawaii,2106.0,158.0,2264.0
+831,1987,west,Idaho,1359.0,76.0,1435.0
+832,1987,west,Montana,1160.0,47.0,1207.0
+833,1987,west,Nevada,4153.0,281.0,4434.0
+834,1987,west,New Mexico,2533.0,137.0,2670.0
+835,1987,west,Oregon,5152.0,305.0,5457.0
+836,1987,west,Utah,1778.0,75.0,1853.0
+837,1987,west,Washington,5911.0,220.0,6131.0
+838,1987,west,Wyoming,870.0,46.0,916.0
+839,1988,aggregate,Federal,46686.0,3242.0,49928.0
+840,1988,aggregate,Midwest,161390.0,9638.0,171028.0
+841,1988,aggregate,Northeast,147705.0,9088.0,156793.0
+842,1988,aggregate,South,354229.0,23441.0,377670.0
+843,1988,aggregate,State Total,861468.0,59773.0,921241.0
+844,1988,aggregate,U.S. Total,594996.0,32604.0,627600.0
+845,1988,aggregate,West,198144.0,17606.0,215750.0
+846,1988,midwest,Illinois,29515.0,1457.0,30972.0
+847,1988,midwest,Indiana,15774.0,867.0,16641.0
+848,1988,midwest,Iowa,3852.0,218.0,4070.0
+849,1988,midwest,Kansas,7312.0,411.0,7723.0
+850,1988,midwest,Michigan,34966.0,2050.0,37016.0
+851,1988,midwest,Minnesota,5705.0,321.0,6026.0
+852,1988,midwest,Missouri,15391.0,939.0,16330.0
+853,1988,midwest,Nebraska,3103.0,209.0,3312.0
+854,1988,midwest,North Dakota,720.0,34.0,754.0
+855,1988,midwest,Ohio,33240.0,2382.0,35622.0
+856,1988,midwest,South Dakota,1452.0,90.0,1542.0
+857,1988,midwest,Wisconsin,10360.0,660.0,11020.0
+858,1988,northeast,Connecticut,7455.0,550.0,8005.0
+859,1988,northeast,Maine,1883.0,63.0,1946.0
+860,1988,northeast,Massachusetts,11740.0,471.0,12211.0
+861,1988,northeast,New Hampshire,1744.0,64.0,1808.0
+862,1988,northeast,New Jersey,26473.0,1587.0,28060.0
+863,1988,northeast,New York,66040.0,4448.0,70488.0
+864,1988,northeast,Pennsylvania,29796.0,1753.0,31549.0
+865,1988,northeast,Rhode Island,1782.0,124.0,1906.0
+866,1988,northeast,Vermont,792.0,28.0,820.0
+867,1988,south,Alabama,16327.0,1102.0,17429.0
+868,1988,south,Arkansas,7085.0,428.0,7513.0
+869,1988,south,Delaware,3020.0,177.0,3197.0
+870,1988,south,District of Columbia,9668.0,856.0,10524.0
+871,1988,south,Florida,58181.0,4787.0,62968.0
+872,1988,south,Georgia,34222.0,2047.0,36269.0
+873,1988,south,Kentucky,11075.0,739.0,11814.0
+874,1988,south,Louisiana,25970.0,1494.0,27464.0
+875,1988,south,Maryland,20657.0,1105.0,21762.0
+876,1988,south,Mississippi,10328.0,557.0,10885.0
+877,1988,south,North Carolina,21358.0,1189.0,22547.0
+878,1988,south,Oklahoma,12035.0,1008.0,13043.0
+879,1988,south,South Carolina,16348.0,1037.0,17385.0
+880,1988,south,Tennessee,17574.0,1016.0,18590.0
+881,1988,south,Texas,65542.0,4334.0,69876.0
+882,1988,south,Virginia,22140.0,1416.0,23556.0
+883,1988,south,West Virginia,2699.0,149.0,2848.0
+884,1988,west,Alaska,2490.0,125.0,2615.0
+885,1988,west,Arizona,16877.0,1224.0,18101.0
+886,1988,west,California,127848.0,12539.0,140387.0
+887,1988,west,Colorado,9927.0,720.0,10647.0
+888,1988,west,Hawaii,2128.0,172.0,2300.0
+889,1988,west,Idaho,2263.0,128.0,2391.0
+890,1988,west,Montana,1761.0,127.0,1888.0
+891,1988,west,Nevada,6617.0,607.0,7224.0
+892,1988,west,New Mexico,4690.0,323.0,5013.0
+893,1988,west,Oregon,8234.0,576.0,8810.0
+894,1988,west,Utah,3037.0,185.0,3222.0
+895,1988,west,Washington,10990.0,760.0,11750.0
+896,1988,west,Wyoming,1282.0,120.0,1402.0
+897,1989,aggregate,Federal,54736.0,4435.0,59171.0
+898,1989,aggregate,Midwest,129268.0,7074.0,136342.0
+899,1989,aggregate,Northeast,108205.0,5765.0,113970.0
+900,1989,aggregate,South,248081.0,14189.0,262270.0
+901,1989,aggregate,State Total,617016.0,36177.0,653193.0
+902,1989,aggregate,U.S. Total,671752.0,40612.0,712364.0
+903,1989,aggregate,West,131462.0,9149.0,140611.0
+904,1989,midwest,Illinois,23693.0,1019.0,24712.0
+905,1989,midwest,Indiana,11717.0,624.0,12341.0
+906,1989,midwest,Iowa,3405.0,179.0,3584.0
+907,1989,midwest,Kansas,5370.0,246.0,5616.0
+908,1989,midwest,Michigan,30053.0,1586.0,31639.0
+909,1989,midwest,Minnesota,2944.0,159.0,3103.0
+910,1989,midwest,Missouri,13203.0,718.0,13921.0
+911,1989,midwest,Nebraska,2250.0,143.0,2393.0
+912,1989,midwest,North Dakota,430.0,21.0,451.0
+913,1989,midwest,Ohio,28543.0,1995.0,30538.0
+914,1989,midwest,South Dakota,1175.0,81.0,1256.0
+915,1989,midwest,Wisconsin,6485.0,303.0,6788.0
+916,1989,northeast,Connecticut,8654.0,647.0,9301.0
+917,1989,northeast,Maine,1409.0,46.0,1455.0
+918,1989,northeast,Massachusetts,7026.0,498.0,7524.0
+919,1989,northeast,New Hampshire,1128.0,38.0,1166.0
+920,1989,northeast,New Jersey,18553.0,886.0,19439.0
+921,1989,northeast,New York,48767.0,2465.0,51232.0
+922,1989,northeast,Pennsylvania,19525.0,944.0,20469.0
+923,1989,northeast,Rhode Island,2274.0,205.0,2479.0
+924,1989,northeast,Vermont,869.0,36.0,905.0
+925,1989,south,Alabama,13062.0,845.0,13907.0
+926,1989,south,Arkansas,6206.0,443.0,6649.0
+927,1989,south,Delaware,3234.0,224.0,3458.0
+928,1989,south,District of Columbia,9367.0,587.0,9954.0
+929,1989,south,Florida,37448.0,2551.0,39999.0
+930,1989,south,Georgia,19775.0,1110.0,20885.0
+931,1989,south,Kentucky,7842.0,447.0,8289.0
+932,1989,south,Louisiana,16559.0,698.0,17257.0
+933,1989,south,Maryland,15786.0,728.0,16514.0
+934,1989,south,Mississippi,7509.0,402.0,7911.0
+935,1989,south,North Carolina,16611.0,843.0,17454.0
+936,1989,south,Oklahoma,10633.0,975.0,11608.0
+937,1989,south,South Carolina,14791.0,929.0,15720.0
+938,1989,south,Tennessee,10159.0,471.0,10630.0
+939,1989,south,Texas,41953.0,2069.0,44022.0
+940,1989,south,Virginia,15683.0,794.0,16477.0
+941,1989,south,West Virginia,1463.0,73.0,1536.0
+942,1989,west,Alaska,2583.0,161.0,2744.0
+943,1989,west,Arizona,12471.0,780.0,13251.0
+944,1989,west,California,81297.0,6000.0,87297.0
+945,1989,west,Colorado,6513.0,395.0,6908.0
+946,1989,west,Hawaii,2287.0,172.0,2459.0
+947,1989,west,Idaho,1738.0,112.0,1850.0
+948,1989,west,Montana,1264.0,64.0,1328.0
+949,1989,west,Nevada,4674.0,438.0,5112.0
+950,1989,west,New Mexico,2994.0,164.0,3158.0
+951,1989,west,Oregon,5816.0,340.0,6156.0
+952,1989,west,Utah,2285.0,109.0,2394.0
+953,1989,west,Washington,6597.0,331.0,6928.0
+954,1989,west,Wyoming,943.0,83.0,1026.0
+955,1990,aggregate,Federal,60515.0,5011.0,65526.0
+956,1990,aggregate,Midwest,138373.0,7521.0,145894.0
+957,1990,aggregate,Northeast,117157.0,6307.0,123464.0
+958,1990,aggregate,South,269285.0,15366.0,284651.0
+959,1990,aggregate,State Total,669325.0,39068.0,708393.0
+960,1990,aggregate,U.S. Total,729840.0,44079.0,773919.0
+961,1990,aggregate,West,144510.0,9874.0,154384.0
+962,1990,midwest,Illinois,26333.0,1183.0,27516.0
+963,1990,midwest,Indiana,12055.0,681.0,12736.0
+964,1990,midwest,Iowa,3755.0,212.0,3967.0
+965,1990,midwest,Kansas,5491.0,284.0,5775.0
+966,1990,midwest,Michigan,32579.0,1688.0,34267.0
+967,1990,midwest,Minnesota,3017.0,159.0,3176.0
+968,1990,midwest,Missouri,14166.0,777.0,14943.0
+969,1990,midwest,Nebraska,2258.0,145.0,2403.0
+970,1990,midwest,North Dakota,463.0,20.0,483.0
+971,1990,midwest,Ohio,29875.0,1947.0,31822.0
+972,1990,midwest,South Dakota,1264.0,77.0,1341.0
+973,1990,midwest,Wisconsin,7117.0,348.0,7465.0
+974,1990,northeast,Connecticut,9817.0,683.0,10500.0
+975,1990,northeast,Maine,1479.0,44.0,1523.0
+976,1990,northeast,Massachusetts,7749.0,596.0,8345.0
+977,1990,northeast,New Hampshire,1298.0,44.0,1342.0
+978,1990,northeast,New Jersey,20087.0,1041.0,21128.0
+979,1990,northeast,New York,52204.0,2691.0,54895.0
+980,1990,northeast,Pennsylvania,21284.0,1006.0,22290.0
+981,1990,northeast,Rhode Island,2226.0,166.0,2392.0
+982,1990,northeast,Vermont,1013.0,36.0,1049.0
+983,1990,south,Alabama,14710.0,955.0,15665.0
+984,1990,south,Arkansas,6887.0,435.0,7322.0
+985,1990,south,Delaware,3245.0,226.0,3471.0
+986,1990,south,District of Columbia,9341.0,606.0,9947.0
+987,1990,south,Florida,41723.0,2664.0,44387.0
+988,1990,south,Georgia,21168.0,1243.0,22411.0
+989,1990,south,Kentucky,8544.0,479.0,9023.0
+990,1990,south,Louisiana,17824.0,775.0,18599.0
+991,1990,south,Maryland,16971.0,877.0,17848.0
+992,1990,south,Mississippi,7927.0,448.0,8375.0
+993,1990,south,North Carolina,17466.0,945.0,18411.0
+994,1990,south,Oklahoma,11214.0,1071.0,12285.0
+995,1990,south,South Carolina,16266.0,1053.0,17319.0
+996,1990,south,Tennessee,9998.0,390.0,10388.0
+997,1990,south,Texas,47846.0,2196.0,50042.0
+998,1990,south,Virginia,16666.0,927.0,17593.0
+999,1990,south,West Virginia,1489.0,76.0,1565.0
+1000,1990,west,Alaska,2494.0,128.0,2622.0
+1001,1990,west,Arizona,13426.0,835.0,14261.0
+1002,1990,west,California,90807.0,6502.0,97309.0
+1003,1990,west,Colorado,7238.0,433.0,7671.0
+1004,1990,west,Hawaii,2362.0,171.0,2533.0
+1005,1990,west,Idaho,1841.0,120.0,1961.0
+1006,1990,west,Montana,1349.0,76.0,1425.0
+1007,1990,west,Nevada,4916.0,406.0,5322.0
+1008,1990,west,New Mexico,2994.0,193.0,3187.0
+1009,1990,west,Oregon,6130.0,362.0,6492.0
+1010,1990,west,Utah,2371.0,125.0,2496.0
+1011,1990,west,Washington,7560.0,435.0,7995.0
+1012,1990,west,Wyoming,1022.0,88.0,1110.0
+1013,1991,aggregate,Federal,65954.0,5654.0,71608.0
+1014,1991,aggregate,Midwest,148563.0,8101.0,156664.0
+1015,1991,aggregate,Northeast,124900.0,7226.0,132126.0
+1016,1991,aggregate,South,285220.0,16745.0,301965.0
+1017,1991,aggregate,State Total,711954.0,41997.0,753951.0
+1018,1991,aggregate,U.S. Total,777908.0,47651.0,825559.0
+1019,1991,aggregate,West,153271.0,9925.0,163196.0
+1020,1991,midwest,Illinois,27858.0,1257.0,29115.0
+1021,1991,midwest,Indiana,13013.0,706.0,13719.0
+1022,1991,midwest,Iowa,3949.0,196.0,4145.0
+1023,1991,midwest,Kansas,5610.0,293.0,5903.0
+1024,1991,midwest,Michigan,34689.0,1734.0,36423.0
+1025,1991,midwest,Minnesota,3299.0,173.0,3472.0
+1026,1991,midwest,Missouri,15076.0,821.0,15897.0
+1027,1991,midwest,Nebraska,2357.0,169.0,2526.0
+1028,1991,midwest,North Dakota,461.0,31.0,492.0
+1029,1991,midwest,Ohio,33451.0,2293.0,35744.0
+1030,1991,midwest,South Dakota,1294.0,80.0,1374.0
+1031,1991,midwest,Wisconsin,7506.0,348.0,7854.0
+1032,1991,northeast,Connecticut,10317.0,660.0,10977.0
+1033,1991,northeast,Maine,1517.0,62.0,1579.0
+1034,1991,northeast,Massachusetts,8779.0,636.0,9415.0
+1035,1991,northeast,New Hampshire,1460.0,73.0,1533.0
+1036,1991,northeast,New Jersey,22376.0,1107.0,23483.0
+1037,1991,northeast,New York,54494.0,3368.0,57862.0
+1038,1991,northeast,Pennsylvania,22300.0,1088.0,23388.0
+1039,1991,northeast,Rhode Island,2576.0,195.0,2771.0
+1040,1991,northeast,Vermont,1081.0,37.0,1118.0
+1041,1991,south,Alabama,15705.0,1055.0,16760.0
+1042,1991,south,Arkansas,7329.0,437.0,7766.0
+1043,1991,south,Delaware,3477.0,240.0,3717.0
+1044,1991,south,District of Columbia,9701.0,754.0,10455.0
+1045,1991,south,Florida,43895.0,2638.0,46533.0
+1046,1991,south,Georgia,22347.0,1396.0,23743.0
+1047,1991,south,Kentucky,9286.0,513.0,9799.0
+1048,1991,south,Louisiana,19092.0,911.0,20003.0
+1049,1991,south,Maryland,18360.0,931.0,19291.0
+1050,1991,south,Mississippi,8396.0,508.0,8904.0
+1051,1991,south,North Carolina,17882.0,1021.0,18903.0
+1052,1991,south,Oklahoma,12104.0,1236.0,13340.0
+1053,1991,south,South Carolina,17224.0,1045.0,18269.0
+1054,1991,south,Tennessee,11015.0,459.0,11474.0
+1055,1991,south,Texas,49186.0,2491.0,51677.0
+1056,1991,south,Virginia,18789.0,1040.0,19829.0
+1057,1991,south,West Virginia,1432.0,70.0,1502.0
+1058,1991,west,Alaska,2574.0,132.0,2706.0
+1059,1991,west,Arizona,14476.0,939.0,15415.0
+1060,1991,west,California,95506.0,6302.0,101808.0
+1061,1991,west,Colorado,7939.0,453.0,8392.0
+1062,1991,west,Hawaii,2533.0,167.0,2700.0
+1063,1991,west,Idaho,2022.0,121.0,2143.0
+1064,1991,west,Montana,1405.0,73.0,1478.0
+1065,1991,west,Nevada,5370.0,453.0,5823.0
+1066,1991,west,New Mexico,2959.0,160.0,3119.0
+1067,1991,west,Oregon,6323.0,409.0,6732.0
+1068,1991,west,Utah,2505.0,120.0,2625.0
+1069,1991,west,Washington,8617.0,539.0,9156.0
+1070,1991,west,Wyoming,1042.0,57.0,1099.0
+1071,1992,aggregate,Federal,73860.0,6399.0,80259.0
+1072,1992,aggregate,Midwest,157579.0,8729.0,166308.0
+1073,1992,aggregate,Northeast,130804.0,7340.0,138144.0
+1074,1992,aggregate,South,306257.0,17343.0,323600.0
+1075,1992,aggregate,State Total,758233.0,44008.0,802241.0
+1076,1992,aggregate,U.S. Total,832093.0,50407.0,882500.0
+1077,1992,aggregate,West,163593.0,10596.0,174189.0
+1078,1992,midwest,Illinois,30184.0,1456.0,31640.0
+1079,1992,midwest,Indiana,13207.0,738.0,13945.0
+1080,1992,midwest,Iowa,4275.0,243.0,4518.0
+1081,1992,midwest,Kansas,5706.0,322.0,6028.0
+1082,1992,midwest,Michigan,37271.0,1842.0,39113.0
+1083,1992,midwest,Minnesota,3634.0,188.0,3822.0
+1084,1992,midwest,Missouri,15276.0,919.0,16195.0
+1085,1992,midwest,Nebraska,2341.0,173.0,2514.0
+1086,1992,midwest,North Dakota,463.0,14.0,477.0
+1087,1992,midwest,Ohio,35959.0,2419.0,38378.0
+1088,1992,midwest,South Dakota,1408.0,79.0,1487.0
+1089,1992,midwest,Wisconsin,7855.0,336.0,8191.0
+1090,1992,northeast,Connecticut,10693.0,710.0,11403.0
+1091,1992,northeast,Maine,1459.0,60.0,1519.0
+1092,1992,northeast,Massachusetts,9489.0,564.0,10053.0
+1093,1992,northeast,New Hampshire,1698.0,79.0,1777.0
+1094,1992,northeast,New Jersey,21558.0,1095.0,22653.0
+1095,1992,northeast,New York,58237.0,3499.0,61736.0
+1096,1992,northeast,Pennsylvania,23868.0,1106.0,24974.0
+1097,1992,northeast,Rhode Island,2594.0,181.0,2775.0
+1098,1992,northeast,Vermont,1208.0,46.0,1254.0
+1099,1992,south,Alabama,16352.0,1101.0,17453.0
+1100,1992,south,Arkansas,7821.0,464.0,8285.0
+1101,1992,south,Delaware,3791.0,271.0,4062.0
+1102,1992,south,District of Columbia,10155.0,720.0,10875.0
+1103,1992,south,Florida,45703.0,2599.0,48302.0
+1104,1992,south,Georgia,23835.0,1455.0,25290.0
+1105,1992,south,Kentucky,9819.0,545.0,10364.0
+1106,1992,south,Louisiana,19954.0,1026.0,20980.0
+1107,1992,south,Maryland,19023.0,954.0,19977.0
+1108,1992,south,Mississippi,8356.0,549.0,8905.0
+1109,1992,south,North Carolina,19504.0,950.0,20454.0
+1110,1992,south,Oklahoma,13421.0,1400.0,14821.0
+1111,1992,south,South Carolina,17516.0,1127.0,18643.0
+1112,1992,south,Tennessee,11321.0,528.0,11849.0
+1113,1992,south,Texas,58056.0,2411.0,60467.0
+1114,1992,south,Virginia,20036.0,1163.0,21199.0
+1115,1992,south,West Virginia,1594.0,80.0,1674.0
+1116,1992,west,Alaska,2716.0,149.0,2865.0
+1117,1992,west,Arizona,15476.0,1001.0,16477.0
+1118,1992,west,California,102749.0,6747.0,109496.0
+1119,1992,west,Colorado,8470.0,527.0,8997.0
+1120,1992,west,Hawaii,2729.0,197.0,2926.0
+1121,1992,west,Idaho,2131.0,125.0,2256.0
+1122,1992,west,Montana,1465.0,83.0,1548.0
+1123,1992,west,Nevada,5611.0,438.0,6049.0
+1124,1992,west,New Mexico,3087.0,184.0,3271.0
+1125,1992,west,Oregon,6244.0,339.0,6583.0
+1126,1992,west,Utah,2575.0,124.0,2699.0
+1127,1992,west,Washington,9341.0,618.0,9959.0
+1128,1992,west,Wyoming,999.0,64.0,1063.0
+1129,1993,aggregate,Federal,82696.0,6891.0,89587.0
+1130,1993,aggregate,Midwest,228520.0,15403.0,243923.0
+1131,1993,aggregate,Northeast,205737.0,13754.0,219491.0
+1132,1993,aggregate,South,539138.0,43713.0,582851.0
+1133,1993,aggregate,State Total,1243509.0,95550.0,1339059.0
+1134,1993,aggregate,U.S. Total,1331695.0,102850.0,1434545.0
+1135,1993,aggregate,West,270114.0,22680.0,292794.0
+1136,1993,midwest,Illinois,46289.0,2755.0,49044.0
+1137,1993,midwest,Indiana,21345.0,1422.0,22767.0
+1138,1993,midwest,Iowa,6094.0,406.0,6500.0
+1139,1993,midwest,Kansas,7972.0,552.0,8524.0
+1140,1993,midwest,Michigan,48915.0,2882.0,51797.0
+1141,1993,midwest,Minnesota,7403.0,451.0,7854.0
+1142,1993,midwest,Missouri,19830.0,1378.0,21208.0
+1143,1993,midwest,Nebraska,3894.0,304.0,4198.0
+1144,1993,midwest,North Dakota,804.0,55.0,859.0
+1145,1993,midwest,Ohio,48389.0,3947.0,52336.0
+1146,1993,midwest,South Dakota,2022.0,154.0,2176.0
+1147,1993,midwest,Wisconsin,15563.0,1097.0,16660.0
+1148,1993,northeast,Connecticut,12697.0,994.0,13691.0
+1149,1993,northeast,Maine,2077.0,96.0,2173.0
+1150,1993,northeast,Massachusetts,17098.0,1009.0,18107.0
+1151,1993,northeast,New Hampshire,2679.0,223.0,2902.0
+1152,1993,northeast,New Jersey,36733.0,2220.0,38953.0
+1153,1993,northeast,New York,88197.0,6181.0,94378.0
+1154,1993,northeast,Pennsylvania,42453.0,2828.0,45281.0
+1155,1993,northeast,Rhode Island,2628.0,155.0,2783.0
+1156,1993,northeast,Vermont,1175.0,48.0,1223.0
+1157,1993,south,Alabama,23978.0,1718.0,25696.0
+1158,1993,south,Arkansas,10762.0,709.0,11471.0
+1159,1993,south,Delaware,3953.0,257.0,4210.0
+1160,1993,south,District of Columbia,11667.0,865.0,12532.0
+1161,1993,south,Florida,80849.0,6382.0,87231.0
+1162,1993,south,Georgia,46966.0,3480.0,50446.0
+1163,1993,south,Kentucky,16093.0,1092.0,17185.0
+1164,1993,south,Louisiana,36154.0,2522.0,38676.0
+1165,1993,south,Maryland,27812.0,1810.0,29622.0
+1166,1993,south,Mississippi,13789.0,969.0,14758.0
+1167,1993,south,North Carolina,28572.0,1868.0,30440.0
+1168,1993,south,Oklahoma,18416.0,2095.0,20511.0
+1169,1993,south,South Carolina,22841.0,1576.0,24417.0
+1170,1993,south,Tennessee,25364.0,1835.0,27199.0
+1171,1993,south,Texas,133870.0,13538.0,147408.0
+1172,1993,south,Virginia,34673.0,2800.0,37473.0
+1173,1993,south,West Virginia,3379.0,197.0,3576.0
+1174,1993,west,Alaska,2611.0,123.0,2734.0
+1175,1993,west,Arizona,23245.0,1797.0,25042.0
+1176,1993,west,California,174016.0,15233.0,189249.0
+1177,1993,west,Colorado,14707.0,1071.0,15778.0
+1178,1993,west,Hawaii,2923.0,206.0,3129.0
+1179,1993,west,Idaho,3841.0,250.0,4091.0
+1180,1993,west,Montana,2078.0,143.0,2221.0
+1181,1993,west,Nevada,8568.0,831.0,9399.0
+1182,1993,west,New Mexico,6064.0,492.0,6556.0
+1183,1993,west,Oregon,9658.0,676.0,10334.0
+1184,1993,west,Utah,4480.0,303.0,4783.0
+1185,1993,west,Washington,16416.0,1438.0,17854.0
+1186,1993,west,Wyoming,1507.0,117.0,1624.0
+1187,1994,aggregate,Federal,87894.0,7140.0,95034.0
+1188,1994,aggregate,Midwest,173406.0,9936.0,183342.0
+1189,1994,aggregate,Northeast,144943.0,8129.0,153072.0
+1190,1994,aggregate,South,396423.0,26341.0,422764.0
+1191,1994,aggregate,State Total,902412.0,57256.0,959668.0
+1192,1994,aggregate,U.S. Total,990306.0,64396.0,1054702.0
+1193,1994,aggregate,West,187640.0,12850.0,200490.0
+1194,1994,midwest,Illinois,34718.0,1813.0,36531.0
+1195,1994,midwest,Indiana,14188.0,826.0,15014.0
+1196,1994,midwest,Iowa,5086.0,351.0,5437.0
+1197,1994,midwest,Kansas,6027.0,344.0,6371.0
+1198,1994,midwest,Michigan,38610.0,2021.0,40631.0
+1199,1994,midwest,Minnesota,4338.0,237.0,4575.0
+1200,1994,midwest,Missouri,16856.0,1042.0,17898.0
+1201,1994,midwest,Nebraska,2535.0,176.0,2711.0
+1202,1994,midwest,North Dakota,520.0,16.0,536.0
+1203,1994,midwest,Ohio,39313.0,2595.0,41908.0
+1204,1994,midwest,South Dakota,1605.0,103.0,1708.0
+1205,1994,midwest,Wisconsin,9610.0,412.0,10022.0
+1206,1994,northeast,Connecticut,13381.0,999.0,14380.0
+1207,1994,northeast,Maine,1426.0,48.0,1474.0
+1208,1994,northeast,Massachusetts,10587.0,706.0,11293.0
+1209,1994,northeast,New Hampshire,1911.0,110.0,2021.0
+1210,1994,northeast,New Jersey,23464.0,1168.0,24632.0
+1211,1994,northeast,New York,63175.0,3575.0,66750.0
+1212,1994,northeast,Pennsylvania,26980.0,1322.0,28302.0
+1213,1994,northeast,Rhode Island,2767.0,152.0,2919.0
+1214,1994,northeast,Vermont,1252.0,49.0,1301.0
+1215,1994,south,Alabama,18359.0,1214.0,19573.0
+1216,1994,south,Arkansas,8388.0,569.0,8957.0
+1217,1994,south,Delaware,4184.0,282.0,4466.0
+1218,1994,south,District of Columbia,10262.0,687.0,10949.0
+1219,1994,south,Florida,54099.0,3064.0,57163.0
+1220,1994,south,Georgia,31413.0,2012.0,33425.0
+1221,1994,south,Kentucky,10429.0,637.0,11066.0
+1222,1994,south,Louisiana,22768.0,1295.0,24063.0
+1223,1994,south,Maryland,19959.0,1039.0,20998.0
+1224,1994,south,Mississippi,10282.0,648.0,10930.0
+1225,1994,south,North Carolina,22465.0,1183.0,23648.0
+1226,1994,south,Oklahoma,15024.0,1607.0,16631.0
+1227,1994,south,South Carolina,17977.0,1022.0,18999.0
+1228,1994,south,Tennessee,13814.0,587.0,14401.0
+1229,1994,south,Texas,109356.0,8839.0,118195.0
+1230,1994,south,Virginia,25403.0,1565.0,26968.0
+1231,1994,south,West Virginia,2241.0,91.0,2332.0
+1232,1994,west,Alaska,3074.0,218.0,3292.0
+1233,1994,west,Arizona,18473.0,1273.0,19746.0
+1234,1994,west,California,117846.0,8245.0,126091.0
+1235,1994,west,Colorado,10047.0,670.0,10717.0
+1236,1994,west,Hawaii,3076.0,257.0,3333.0
+1237,1994,west,Idaho,2639.0,172.0,2811.0
+1238,1994,west,Montana,1671.0,93.0,1764.0
+1239,1994,west,Nevada,6552.0,441.0,6993.0
+1240,1994,west,New Mexico,3521.0,191.0,3712.0
+1241,1994,west,Oregon,6557.0,379.0,6936.0
+1242,1994,west,Utah,2914.0,131.0,3045.0
+1243,1994,west,Washington,10135.0,698.0,10833.0
+1244,1994,west,Wyoming,1135.0,82.0,1217.0
+1245,1995,aggregate,Federal,92852.0,7398.0,100250.0
+1246,1995,aggregate,Midwest,182386.0,10864.0,193250.0
+1247,1995,aggregate,Northeast,153648.0,8401.0,162049.0
+1248,1995,aggregate,South,426349.0,27366.0,453715.0
+1249,1995,aggregate,State Total,964554.0,61070.0,1025624.0
+1250,1995,aggregate,U.S. Total,1057406.0,68468.0,1125874.0
+1251,1995,aggregate,West,202171.0,14439.0,216610.0
+1252,1995,midwest,Illinois,35462.0,2196.0,37658.0
+1253,1995,midwest,Indiana,15233.0,892.0,16125.0
+1254,1995,midwest,Iowa,5481.0,425.0,5906.0
+1255,1995,midwest,Kansas,6605.0,449.0,7054.0
+1256,1995,midwest,Michigan,39270.0,1842.0,41112.0
+1257,1995,midwest,Minnesota,4629.0,217.0,4846.0
+1258,1995,midwest,Missouri,17960.0,1174.0,19134.0
+1259,1995,midwest,Nebraska,2863.0,211.0,3074.0
+1260,1995,midwest,North Dakota,579.0,29.0,608.0
+1261,1995,midwest,Ohio,41870.0,2793.0,44663.0
+1262,1995,midwest,South Dakota,1737.0,134.0,1871.0
+1263,1995,midwest,Wisconsin,10697.0,502.0,11199.0
+1264,1995,northeast,Connecticut,13827.0,975.0,14802.0
+1265,1995,northeast,Maine,1360.0,36.0,1396.0
+1266,1995,northeast,Massachusetts,11031.0,656.0,11687.0
+1267,1995,northeast,New Hampshire,1906.0,109.0,2015.0
+1268,1995,northeast,New Jersey,25759.0,1307.0,27066.0
+1269,1995,northeast,New York,64871.0,3615.0,68486.0
+1270,1995,northeast,Pennsylvania,30914.0,1502.0,32416.0
+1271,1995,northeast,Rhode Island,2745.0,157.0,2902.0
+1272,1995,northeast,Vermont,1235.0,44.0,1279.0
+1273,1995,south,Alabama,19423.0,1295.0,20718.0
+1274,1995,south,Arkansas,8387.0,523.0,8910.0
+1275,1995,south,Delaware,4478.0,358.0,4836.0
+1276,1995,south,District of Columbia,9306.0,494.0,9800.0
+1277,1995,south,Florida,60219.0,3660.0,63879.0
+1278,1995,south,Georgia,32230.0,2036.0,34266.0
+1279,1995,south,Kentucky,11326.0,734.0,12060.0
+1280,1995,south,Louisiana,23771.0,1424.0,25195.0
+1281,1995,south,Maryland,20374.0,1079.0,21453.0
+1282,1995,south,Mississippi,11893.0,791.0,12684.0
+1283,1995,south,North Carolina,27501.0,1752.0,29253.0
+1284,1995,south,Oklahoma,16336.0,1815.0,18151.0
+1285,1995,south,South Carolina,18566.0,1045.0,19611.0
+1286,1995,south,Tennessee,14569.0,637.0,15206.0
+1287,1995,south,Texas,119831.0,7935.0,127766.0
+1288,1995,south,Virginia,25756.0,1659.0,27415.0
+1289,1995,south,West Virginia,2383.0,129.0,2512.0
+1290,1995,west,Alaska,3279.0,243.0,3522.0
+1291,1995,west,Arizona,19909.0,1432.0,21341.0
+1292,1995,west,California,126564.0,9082.0,135646.0
+1293,1995,west,Colorado,10350.0,713.0,11063.0
+1294,1995,west,Hawaii,3248.0,312.0,3560.0
+1295,1995,west,Idaho,3116.0,212.0,3328.0
+1296,1995,west,Montana,1887.0,112.0,1999.0
+1297,1995,west,Nevada,7183.0,530.0,7713.0
+1298,1995,west,New Mexico,3800.0,278.0,4078.0
+1299,1995,west,Oregon,7421.0,465.0,7886.0
+1300,1995,west,Utah,3310.0,161.0,3471.0
+1301,1995,west,Washington,10815.0,793.0,11608.0
+1302,1995,west,Wyoming,1289.0,106.0,1395.0
+1303,1996,aggregate,Federal,97844.0,7700.0,105544.0
+1304,1996,aggregate,Midwest,192975.0,11682.0,204657.0
+1305,1996,aggregate,Northeast,158951.0,9030.0,167981.0
+1306,1996,aggregate,South,439172.0,30080.0,469252.0
+1307,1996,aggregate,State Total,1009265.0,67110.0,1076375.0
+1308,1996,aggregate,U.S. Total,1107109.0,74810.0,1181919.0
+1309,1996,aggregate,West,218167.0,16318.0,234485.0
+1310,1996,midwest,Illinois,36603.0,2249.0,38852.0
+1311,1996,midwest,Indiana,15952.0,1008.0,16960.0
+1312,1996,midwest,Iowa,5872.0,470.0,6342.0
+1313,1996,midwest,Kansas,7280.0,476.0,7756.0
+1314,1996,midwest,Michigan,40429.0,1920.0,42349.0
+1315,1996,midwest,Minnesota,4924.0,234.0,5158.0
+1316,1996,midwest,Missouri,20539.0,1464.0,22003.0
+1317,1996,midwest,Nebraska,3062.0,225.0,3287.0
+1318,1996,midwest,North Dakota,677.0,45.0,722.0
+1319,1996,midwest,Ohio,43369.0,2805.0,46174.0
+1320,1996,midwest,South Dakota,1922.0,141.0,2063.0
+1321,1996,midwest,Wisconsin,12346.0,645.0,12991.0
+1322,1996,northeast,Connecticut,15191.0,1380.0,16571.0
+1323,1996,northeast,Maine,1378.0,48.0,1426.0
+1324,1996,northeast,Massachusetts,11046.0,750.0,11796.0
+1325,1996,northeast,New Hampshire,1957.0,105.0,2062.0
+1326,1996,northeast,New Jersey,26209.0,1281.0,27490.0
+1327,1996,northeast,New York,65981.0,3728.0,69709.0
+1328,1996,northeast,Pennsylvania,33060.0,1477.0,34537.0
+1329,1996,northeast,Rhode Island,3042.0,229.0,3271.0
+1330,1996,northeast,Vermont,1087.0,32.0,1119.0
+1331,1996,south,Alabama,20403.0,1357.0,21760.0
+1332,1996,south,Arkansas,8859.0,548.0,9407.0
+1333,1996,south,Delaware,4731.0,379.0,5110.0
+1334,1996,south,District of Columbia,8915.0,461.0,9376.0
+1335,1996,south,Florida,60461.0,3302.0,63763.0
+1336,1996,south,Georgia,32900.0,2239.0,35139.0
+1337,1996,south,Kentucky,12090.0,820.0,12910.0
+1338,1996,south,Louisiana,25218.0,1561.0,26779.0
+1339,1996,south,Maryland,20995.0,1055.0,22050.0
+1340,1996,south,Mississippi,12968.0,891.0,13859.0
+1341,1996,south,North Carolina,28779.0,1868.0,30647.0
+1342,1996,south,Oklahoma,17653.0,1940.0,19593.0
+1343,1996,south,South Carolina,19244.0,1202.0,20446.0
+1344,1996,south,Tennessee,14938.0,688.0,15626.0
+1345,1996,south,Texas,122450.0,9933.0,132383.0
+1346,1996,south,Virginia,25968.0,1687.0,27655.0
+1347,1996,south,West Virginia,2600.0,149.0,2749.0
+1348,1996,west,Alaska,3446.0,270.0,3716.0
+1349,1996,west,Arizona,20978.0,1515.0,22493.0
+1350,1996,west,California,135942.0,10107.0,146049.0
+1351,1996,west,Colorado,11593.0,845.0,12438.0
+1352,1996,west,Hawaii,3626.0,385.0,4011.0
+1353,1996,west,Idaho,3561.0,271.0,3832.0
+1354,1996,west,Montana,2109.0,121.0,2230.0
+1355,1996,west,Nevada,7713.0,612.0,8325.0
+1356,1996,west,New Mexico,4346.0,378.0,4724.0
+1357,1996,west,Oregon,8090.0,571.0,8661.0
+1358,1996,west,Utah,3791.0,211.0,4002.0
+1359,1996,west,Washington,11607.0,920.0,12527.0
+1360,1996,west,Wyoming,1365.0,112.0,1477.0
+1361,1997,aggregate,Federal,104667.0,8306.0,112973.0
+1362,1997,aggregate,Midwest,205273.0,12765.0,218038.0
+1363,1997,aggregate,Northeast,161082.0,8968.0,170050.0
+1364,1997,aggregate,South,458832.0,31661.0,490493.0
+1365,1997,aggregate,State Total,1056801.0,70885.0,1127686.0
+1366,1997,aggregate,U.S. Total,1161468.0,79191.0,1240659.0
+1367,1997,aggregate,West,231614.0,17491.0,249105.0
+1368,1997,midwest,Illinois,38358.0,2430.0,40788.0
+1369,1997,midwest,Indiana,16832.0,1071.0,17903.0
+1370,1997,midwest,Iowa,6410.0,528.0,6938.0
+1371,1997,midwest,Kansas,7435.0,476.0,7911.0
+1372,1997,midwest,Michigan,42715.0,2056.0,44771.0
+1373,1997,midwest,Minnesota,5068.0,258.0,5326.0
+1374,1997,midwest,Missouri,22001.0,1663.0,23664.0
+1375,1997,midwest,Nebraska,3180.0,222.0,3402.0
+1376,1997,midwest,North Dakota,735.0,62.0,797.0
+1377,1997,midwest,Ohio,45174.0,2842.0,48016.0
+1378,1997,midwest,South Dakota,2073.0,169.0,2242.0
+1379,1997,midwest,Wisconsin,15292.0,988.0,16280.0
+1380,1997,northeast,Connecticut,15840.0,1401.0,17241.0
+1381,1997,northeast,Maine,1558.0,62.0,1620.0
+1382,1997,northeast,Massachusetts,11214.0,733.0,11947.0
+1383,1997,northeast,New Hampshire,2059.0,109.0,2168.0
+1384,1997,northeast,New Jersey,26957.0,1404.0,28361.0
+1385,1997,northeast,New York,65539.0,3569.0,69108.0
+1386,1997,northeast,Pennsylvania,33540.0,1424.0,34964.0
+1387,1997,northeast,Rhode Island,3158.0,213.0,3371.0
+1388,1997,northeast,Vermont,1217.0,53.0,1270.0
+1389,1997,south,Alabama,20930.0,1360.0,22290.0
+1390,1997,south,Arkansas,9410.0,611.0,10021.0
+1391,1997,south,Delaware,5052.0,383.0,5435.0
+1392,1997,south,District of Columbia,8946.0,407.0,9353.0
+1393,1997,south,Florida,61207.0,3419.0,64626.0
+1394,1997,south,Georgia,34223.0,2282.0,36505.0
+1395,1997,south,Kentucky,13548.0,1052.0,14600.0
+1396,1997,south,Louisiana,27397.0,1868.0,29265.0
+1397,1997,south,Maryland,21124.0,1108.0,22232.0
+1398,1997,south,Mississippi,13334.0,962.0,14296.0
+1399,1997,south,North Carolina,29752.0,1860.0,31612.0
+1400,1997,south,Oklahoma,18489.0,2053.0,20542.0
+1401,1997,south,South Carolina,19871.0,1302.0,21173.0
+1402,1997,south,Tennessee,15861.0,798.0,16659.0
+1403,1997,south,Texas,130051.0,10300.0,140351.0
+1404,1997,south,Virginia,26675.0,1710.0,28385.0
+1405,1997,south,West Virginia,2962.0,186.0,3148.0
+1406,1997,west,Alaska,3861.0,304.0,4165.0
+1407,1997,west,Arizona,21924.0,1560.0,23484.0
+1408,1997,west,California,144876.0,10914.0,155790.0
+1409,1997,west,Colorado,12512.0,949.0,13461.0
+1410,1997,west,Hawaii,4460.0,518.0,4978.0
+1411,1997,west,Idaho,3648.0,263.0,3911.0
+1412,1997,west,Montana,2350.0,191.0,2541.0
+1413,1997,west,Nevada,8329.0,695.0,9024.0
+1414,1997,west,New Mexico,4314.0,374.0,4688.0
+1415,1997,west,Oregon,7549.0,450.0,7999.0
+1416,1997,west,Utah,4088.0,213.0,4301.0
+1417,1997,west,Washington,12290.0,924.0,13214.0
+1418,1997,west,Wyoming,1413.0,136.0,1549.0
+1419,1998,aggregate,Federal,113855.0,9186.0,123041.0
+1420,1998,aggregate,Midwest,214616.0,13710.0,228326.0
+1421,1998,aggregate,Northeast,166490.0,9281.0,175771.0
+1422,1998,aggregate,South,479360.0,33262.0,512622.0
+1423,1998,aggregate,State Total,1101114.0,74941.0,1176055.0
+1424,1998,aggregate,U.S. Total,1214969.0,84127.0,1299096.0
+1425,1998,aggregate,West,240648.0,18688.0,259336.0
+1426,1998,midwest,Illinois,40405.0,2646.0,43051.0
+1427,1998,midwest,Indiana,17999.0,1198.0,19197.0
+1428,1998,midwest,Iowa,6903.0,491.0,7394.0
+1429,1998,midwest,Kansas,7660.0,523.0,8183.0
+1430,1998,midwest,Michigan,43827.0,2052.0,45879.0
+1431,1998,midwest,Minnesota,5284.0,288.0,5572.0
+1432,1998,midwest,Missouri,23094.0,1880.0,24974.0
+1433,1998,midwest,Nebraska,3427.0,249.0,3676.0
+1434,1998,midwest,North Dakota,846.0,69.0,915.0
+1435,1998,midwest,Ohio,45538.0,2912.0,48450.0
+1436,1998,midwest,South Dakota,2219.0,203.0,2422.0
+1437,1998,midwest,Wisconsin,17414.0,1199.0,18613.0
+1438,1998,northeast,Connecticut,16248.0,1357.0,17605.0
+1439,1998,northeast,Maine,1678.0,103.0,1781.0
+1440,1998,northeast,Massachusetts,11053.0,746.0,11799.0
+1441,1998,northeast,New Hampshire,2053.0,116.0,2169.0
+1442,1998,northeast,New Jersey,29468.0,1653.0,31121.0
+1443,1998,northeast,New York,66499.0,3502.0,70001.0
+1444,1998,northeast,Pennsylvania,34860.0,1517.0,36377.0
+1445,1998,northeast,Rhode Island,3210.0,235.0,3445.0
+1446,1998,northeast,Vermont,1421.0,52.0,1473.0
+1447,1998,south,Alabama,21215.0,1461.0,22676.0
+1448,1998,south,Arkansas,9942.0,696.0,10638.0
+1449,1998,south,Delaware,5118.0,440.0,5558.0
+1450,1998,south,District of Columbia,9470.0,359.0,9829.0
+1451,1998,south,Florida,63698.0,3526.0,67224.0
+1452,1998,south,Georgia,36788.0,2474.0,39262.0
+1453,1998,south,Kentucky,13941.0,1046.0,14987.0
+1454,1998,south,Louisiana,30048.0,2180.0,32228.0
+1455,1998,south,Maryland,21432.0,1140.0,22572.0
+1456,1998,south,Mississippi,15465.0,1213.0,16678.0
+1457,1998,south,North Carolina,30023.0,1938.0,31961.0
+1458,1998,south,Oklahoma,18801.0,2091.0,20892.0
+1459,1998,south,South Carolina,20703.0,1412.0,22115.0
+1460,1998,south,Tennessee,16852.0,886.0,17738.0
+1461,1998,south,Texas,134178.0,10332.0,144510.0
+1462,1998,south,Virginia,28419.0,1857.0,30276.0
+1463,1998,south,West Virginia,3267.0,211.0,3478.0
+1464,1998,west,Alaska,3795.0,302.0,4097.0
+1465,1998,west,Arizona,23531.0,1780.0,25311.0
+1466,1998,west,California,148600.0,11527.0,160127.0
+1467,1998,west,Colorado,13242.0,1070.0,14312.0
+1468,1998,west,Hawaii,4494.0,430.0,4924.0
+1469,1998,west,Idaho,3762.0,321.0,4083.0
+1470,1998,west,Montana,2486.0,248.0,2734.0
+1471,1998,west,Nevada,8908.0,743.0,9651.0
+1472,1998,west,New Mexico,4670.0,315.0,4985.0
+1473,1998,west,Oregon,8404.0,523.0,8927.0
+1474,1998,west,Utah,4173.0,280.0,4453.0
+1475,1998,west,Washington,13143.0,1018.0,14161.0
+1476,1998,west,Wyoming,1440.0,131.0,1571.0
+1477,1999,aggregate,Federal,125333.0,9913.0,135246.0
+1478,1999,aggregate,Midwest,305621.0,24934.0,330555.0
+1479,1999,aggregate,Northeast,251717.0,18423.0,270140.0
+1480,1999,aggregate,South,763801.0,69598.0,833399.0
+1481,1999,aggregate,State Total,1685659.0,148739.0,1834398.0
+1482,1999,aggregate,U.S. Total,1821447.0,159406.0,1980853.0
+1483,1999,aggregate,West,364520.0,35784.0,400304.0
+1484,1999,midwest,Illinois,57025.0,4515.0,61540.0
+1485,1999,midwest,Indiana,29779.0,2317.0,32096.0
+1486,1999,midwest,Iowa,9361.0,869.0,10230.0
+1487,1999,midwest,Kansas,11947.0,998.0,12945.0
+1488,1999,midwest,Michigan,58500.0,3746.0,62246.0
+1489,1999,midwest,Minnesota,10119.0,852.0,10971.0
+1490,1999,midwest,Missouri,30292.0,2803.0,33095.0
+1491,1999,midwest,Nebraska,5403.0,474.0,5877.0
+1492,1999,midwest,North Dakota,1410.0,121.0,1531.0
+1493,1999,midwest,Ohio,58479.0,5001.0,63480.0
+1494,1999,midwest,South Dakota,3196.0,374.0,3570.0
+1495,1999,midwest,Wisconsin,30110.0,2864.0,32974.0
+1496,1999,northeast,Connecticut,17180.0,1459.0,18639.0
+1497,1999,northeast,Maine,2664.0,165.0,2829.0
+1498,1999,northeast,Massachusetts,20905.0,1225.0,22130.0
+1499,1999,northeast,New Hampshire,3628.0,221.0,3849.0
+1500,1999,northeast,New Jersey,44684.0,3639.0,48323.0
+1501,1999,northeast,New York,99397.0,6913.0,106310.0
+1502,1999,northeast,Pennsylvania,58967.0,4554.0,63521.0
+1503,1999,northeast,Rhode Island,2815.0,188.0,3003.0
+1504,1999,northeast,Vermont,1477.0,59.0,1536.0
+1505,1999,south,Alabama,33217.0,2859.0,36076.0
+1506,1999,south,Arkansas,14837.0,1410.0,16247.0
+1507,1999,south,Delaware,6371.0,612.0,6983.0
+1508,1999,south,District of Columbia,9962.0,343.0,10305.0
+1509,1999,south,Florida,110579.0,10097.0,120676.0
+1510,1999,south,Georgia,68942.0,5984.0,74926.0
+1511,1999,south,Kentucky,23551.0,2139.0,25690.0
+1512,1999,south,Louisiana,54735.0,4962.0,59697.0
+1513,1999,south,Maryland,31711.0,2329.0,34040.0
+1514,1999,south,Mississippi,25043.0,2090.0,27133.0
+1515,1999,south,North Carolina,41298.0,3104.0,44402.0
+1516,1999,south,Oklahoma,25882.0,3254.0,29136.0
+1517,1999,south,South Carolina,28535.0,2253.0,30788.0
+1518,1999,south,Tennessee,38112.0,4019.0,42131.0
+1519,1999,south,Texas,201745.0,19375.0,221120.0
+1520,1999,south,Virginia,43779.0,4245.0,48024.0
+1521,1999,south,West Virginia,5502.0,523.0,6025.0
+1522,1999,west,Alaska,3726.0,291.0,4017.0
+1523,1999,west,Arizona,33149.0,3157.0,36306.0
+1524,1999,west,California,219140.0,21069.0,240209.0
+1525,1999,west,Colorado,22485.0,2189.0,24674.0
+1526,1999,west,Hawaii,4350.0,553.0,4903.0
+1527,1999,west,Idaho,6912.0,739.0,7651.0
+1528,1999,west,Montana,4073.0,399.0,4472.0
+1529,1999,west,Nevada,13013.0,1379.0,14392.0
+1530,1999,west,New Mexico,9318.0,1023.0,10341.0
+1531,1999,west,Oregon,14725.0,1418.0,16143.0
+1532,1999,west,Utah,8483.0,863.0,9346.0
+1533,1999,west,Washington,22685.0,2447.0,25132.0
+1534,1999,west,Wyoming,2461.0,257.0,2718.0
+1535,2000,aggregate,Federal,135171.0,10245.0,145416.0
+1536,2000,aggregate,Midwest,222780.0,14598.0,237378.0
+1537,2000,aggregate,Northeast,165744.0,9082.0,174826.0
+1538,2000,aggregate,South,521562.0,39652.0,561214.0
+1539,2000,aggregate,State Total,1162856.0,82989.0,1245845.0
+1540,2000,aggregate,U.S. Total,1806261.0,169758.0,1976019.0
+1541,2000,aggregate,West,252770.0,19657.0,272427.0
+1542,2000,midwest,Illinois,62488.0,5332.0,67820.0
+1543,2000,midwest,Indiana,32039.0,2637.0,34676.0
+1544,2000,midwest,Iowa,10813.0,958.0,11771.0
+1545,2000,midwest,Kansas,15432.0,1271.0,16703.0
+1546,2000,midwest,Michigan,61378.0,3952.0,65330.0
+1547,2000,midwest,Minnesota,15985.0,1014.0,16999.0
+1548,2000,midwest,Missouri,32266.0,2940.0,35206.0
+1549,2000,midwest,Nebraska,5536.0,524.0,6060.0
+1550,2000,midwest,North Dakota,1387.0,131.0,1518.0
+1551,2000,midwest,Ohio,63736.0,5137.0,68873.0
+1552,2000,midwest,South Dakota,4103.0,376.0,4479.0
+1553,2000,midwest,Wisconsin,28100.0,2968.0,31068.0
+1554,2000,northeast,Connecticut,17336.0,2687.0,20023.0
+1555,2000,northeast,Maine,2712.0,152.0,2864.0
+1556,2000,northeast,Massachusetts,22145.0,1368.0,23513.0
+1557,2000,northeast,New Hampshire,3235.0,233.0,3468.0
+1558,2000,northeast,New Jersey,44831.0,3110.0,47941.0
+1559,2000,northeast,New York,100893.0,7195.0,108088.0
+1560,2000,northeast,Pennsylvania,71539.0,5014.0,76553.0
+1561,2000,northeast,Rhode Island,3382.0,238.0,3576.0
+1562,2000,northeast,Vermont,1617.0,80.0,1697.0
+1563,2000,south,Alabama,30796.0,2746.0,33542.0
+1564,2000,south,Arkansas,18703.0,1862.0,20565.0
+1565,2000,south,Delaware,6324.0,597.0,6921.0
+1566,2000,south,District of Columbia,7100.0,356.0,7456.0
+1567,2000,south,Florida,125627.0,13521.0,139148.0
+1568,2000,south,Georgia,74644.0,7129.0,81773.0
+1569,2000,south,Kentucky,26006.0,2382.0,28388.0
+1570,2000,south,Louisiana,46114.0,3740.0,49854.0
+1571,2000,south,Maryland,33455.0,2243.0,35698.0
+1572,2000,south,Mississippi,23861.0,1917.0,25778.0
+1573,2000,south,North Carolina,43429.0,3185.0,46614.0
+1574,2000,south,Oklahoma,30344.0,3575.0,33919.0
+1575,2000,south,South Carolina,32485.0,2424.0,34909.0
+1576,2000,south,Tennessee,35407.0,3074.0,38481.0
+1577,2000,south,Texas,220573.0,23790.0,244363.0
+1578,2000,south,Virginia,57890.0,6146.0,64036.0
+1579,2000,south,West Virginia,8618.0,1887.0,10505.0
+1580,2000,west,Alaska,3889.0,322.0,4173.0
+1581,2000,west,Arizona,40177.0,5606.0,45783.0
+1582,2000,west,California,224919.0,23597.0,248516.0
+1583,2000,west,Colorado,27900.0,2236.0,30136.0
+1584,2000,west,Hawaii,4492.0,561.0,5053.0
+1585,2000,west,Idaho,6632.0,769.0,7401.0
+1586,2000,west,Montana,3704.0,420.0,4124.0
+1587,2000,west,Nevada,14363.0,1577.0,15940.0
+1588,2000,west,New Mexico,9790.0,1150.0,10940.0
+1589,2000,west,Oregon,18010.0,1513.0,19523.0
+1590,2000,west,Utah,8902.0,1019.0,9921.0
+1591,2000,west,Washington,25874.0,2997.0,28871.0
+1592,2000,west,Wyoming,3723.0,453.0,4176.0
+1593,2001,aggregate,Federal,146020.0,10973.0,156993.0
+1594,2001,aggregate,Midwest,225807.0,14872.0,240679.0
+1595,2001,aggregate,Northeast,163491.0,9108.0,172599.0
+1596,2001,aggregate,South,521217.0,39135.0,560352.0
+1597,2001,aggregate,State Total,1165033.0,82006.0,1247039.0
+1598,2001,aggregate,U.S. Total,1311053.0,92979.0,1404032.0
+1599,2001,aggregate,West,254518.0,18891.0,273409.0
+1600,2001,midwest,Illinois,41601.0,2747.0,44348.0
+1601,2001,midwest,Indiana,19424.0,1542.0,20966.0
+1602,2001,midwest,Iowa,7327.0,635.0,7962.0
+1603,2001,midwest,Kansas,8080.0,497.0,8577.0
+1604,2001,midwest,Michigan,46700.0,2149.0,48849.0
+1605,2001,midwest,Minnesota,6223.0,383.0,6606.0
+1606,2001,midwest,Missouri,26633.0,2124.0,28757.0
+1607,2001,midwest,Nebraska,3595.0,342.0,3937.0
+1608,2001,midwest,North Dakota,1010.0,101.0,1111.0
+1609,2001,midwest,Ohio,42452.0,2829.0,45281.0
+1610,2001,midwest,South Dakota,2570.0,220.0,2790.0
+1611,2001,midwest,Wisconsin,20192.0,1303.0,21495.0
+1612,2001,northeast,Connecticut,17749.0,1447.0,19196.0
+1613,2001,northeast,Maine,1645.0,59.0,1704.0
+1614,2001,northeast,Massachusetts,9875.0,713.0,10588.0
+1615,2001,northeast,New Hampshire,2263.0,129.0,2392.0
+1616,2001,northeast,New Jersey,26514.0,1628.0,28142.0
+1617,2001,northeast,New York,64400.0,3133.0,67533.0
+1618,2001,northeast,Pennsylvania,36351.0,1711.0,38062.0
+1619,2001,northeast,Rhode Island,3048.0,193.0,3241.0
+1620,2001,northeast,Vermont,1646.0,95.0,1741.0
+1621,2001,south,Alabama,24958.0,1783.0,26741.0
+1622,2001,south,Arkansas,11743.0,851.0,12594.0
+1623,2001,south,Delaware,6412.0,591.0,7003.0
+1624,2001,south,District of Columbia,,,
+1625,2001,south,Florida,68122.0,4282.0,72404.0
+1626,2001,south,Georgia,43103.0,2834.0,45937.0
+1627,2001,south,Kentucky,14286.0,1138.0,15424.0
+1628,2001,south,Louisiana,33448.0,2362.0,35810.0
+1629,2001,south,Maryland,22545.0,1207.0,23752.0
+1630,2001,south,Mississippi,19637.0,1823.0,21460.0
+1631,2001,south,North Carolina,30211.0,2042.0,32253.0
+1632,2001,south,Oklahoma,20490.0,2290.0,22780.0
+1633,2001,south,South Carolina,21067.0,1509.0,22576.0
+1634,2001,south,Tennessee,22203.0,1468.0,23671.0
+1635,2001,south,Texas,149701.0,12369.0,162070.0
+1636,2001,south,Virginia,29422.0,2240.0,31662.0
+1637,2001,south,West Virginia,3869.0,346.0,4215.0
+1638,2001,west,Alaska,4212.0,359.0,4571.0
+1639,2001,west,Arizona,25542.0,2168.0,27710.0
+1640,2001,west,California,149523.0,9921.0,159444.0
+1641,2001,west,Colorado,16073.0,1375.0,17448.0
+1642,2001,west,Hawaii,4815.0,616.0,5431.0
+1643,2001,west,Idaho,5443.0,541.0,5984.0
+1644,2001,west,Montana,2965.0,363.0,3328.0
+1645,2001,west,Nevada,9392.0,841.0,10233.0
+1646,2001,west,New Mexico,5151.0,517.0,5668.0
+1647,2001,west,Oregon,10749.0,661.0,11410.0
+1648,2001,west,Utah,5024.0,315.0,5339.0
+1649,2001,west,Washington,14080.0,1079.0,15159.0
+1650,2001,west,Wyoming,1549.0,135.0,1684.0
+1651,2002,aggregate,Federal,152294.0,11234.0,163528.0
+1652,2002,aggregate,Midwest,229997.0,15306.0,245303.0
+1653,2002,aggregate,Northeast,166526.0,9381.0,175907.0
+1654,2002,aggregate,South,533247.0,41801.0,575048.0
+1655,2002,aggregate,State Total,1190219.0,86397.0,1276616.0
+1656,2002,aggregate,U.S. Total,1342513.0,97631.0,1440144.0
+1657,2002,aggregate,West,260449.0,19909.0,280358.0
+1658,2002,midwest,Illinois,40173.0,2520.0,42693.0
+1659,2002,midwest,Indiana,20028.0,1583.0,21611.0
+1660,2002,midwest,Iowa,7695.0,703.0,8398.0
+1661,2002,midwest,Kansas,8398.0,537.0,8935.0
+1662,2002,midwest,Michigan,48324.0,2267.0,50591.0
+1663,2002,midwest,Minnesota,6674.0,455.0,7129.0
+1664,2002,midwest,Missouri,27825.0,2274.0,30099.0
+1665,2002,midwest,Nebraska,3706.0,352.0,4058.0
+1666,2002,midwest,North Dakota,1009.0,103.0,1112.0
+1667,2002,midwest,Ohio,42717.0,2929.0,45646.0
+1668,2002,midwest,South Dakota,2691.0,227.0,2918.0
+1669,2002,midwest,Wisconsin,20757.0,1356.0,22113.0
+1670,2002,northeast,Connecticut,19026.0,1694.0,20720.0
+1671,2002,northeast,Maine,1810.0,90.0,1900.0
+1672,2002,northeast,Massachusetts,9625.0,704.0,10329.0
+1673,2002,northeast,New Hampshire,2307.0,144.0,2451.0
+1674,2002,northeast,New Jersey,26305.0,1586.0,27891.0
+1675,2002,northeast,New York,64069.0,2996.0,67065.0
+1676,2002,northeast,Pennsylvania,38347.0,1821.0,40168.0
+1677,2002,northeast,Rhode Island,3306.0,214.0,3520.0
+1678,2002,northeast,Vermont,1731.0,132.0,1863.0
+1679,2002,south,Alabama,26250.0,1697.0,27947.0
+1680,2002,south,Arkansas,12237.0,854.0,13091.0
+1681,2002,south,Delaware,6236.0,542.0,6778.0
+1682,2002,south,District of Columbia,,,
+1683,2002,south,Florida,70615.0,4595.0,75210.0
+1684,2002,south,Georgia,44316.0,3129.0,47445.0
+1685,2002,south,Kentucky,14551.0,1269.0,15820.0
+1686,2002,south,Louisiana,33634.0,2398.0,36032.0
+1687,2002,south,Maryland,22898.0,1264.0,24162.0
+1688,2002,south,Mississippi,20623.0,2082.0,22705.0
+1689,2002,south,North Carolina,30659.0,2173.0,32832.0
+1690,2002,south,Oklahoma,20464.0,2338.0,22802.0
+1691,2002,south,South Carolina,22044.0,1671.0,23715.0
+1692,2002,south,Tennessee,23254.0,1735.0,24989.0
+1693,2002,south,Texas,148952.0,13051.0,162003.0
+1694,2002,south,Virginia,32332.0,2641.0,34973.0
+1695,2002,south,West Virginia,4182.0,362.0,4544.0
+1696,2002,west,Alaska,4049.0,349.0,4398.0
+1697,2002,west,Arizona,26931.0,2428.0,29359.0
+1698,2002,west,California,151374.0,9987.0,161361.0
+1699,2002,west,Colorado,17267.0,1566.0,18833.0
+1700,2002,west,Hawaii,4754.0,669.0,5423.0
+1701,2002,west,Idaho,5154.0,592.0,5746.0
+1702,2002,west,Montana,2978.0,345.0,3323.0
+1703,2002,west,Nevada,9627.0,851.0,10478.0
+1704,2002,west,New Mexico,5473.0,518.0,5991.0
+1705,2002,west,Oregon,11273.0,812.0,12085.0
+1706,2002,west,Utah,5191.0,371.0,5562.0
+1707,2002,west,Washington,14808.0,1254.0,16062.0
+1708,2002,west,Wyoming,1570.0,167.0,1737.0
+1709,2003,aggregate,Federal,161424.0,11635.0,173059.0
+1710,2003,aggregate,Midwest,231696.0,15682.0,247378.0
+1711,2003,aggregate,Northeast,164222.0,9108.0,173330.0
+1712,2003,aggregate,South,543473.0,43057.0,586530.0
+1713,2003,aggregate,State Total,1206331.0,89211.0,1295542.0
+1714,2003,aggregate,U.S. Total,1367755.0,100846.0,1468601.0
+1715,2003,aggregate,West,266940.0,21364.0,288304.0
+1716,2003,midwest,Illinois,40718.0,2700.0,43418.0
+1717,2003,midwest,Indiana,21311.0,1758.0,23069.0
+1718,2003,midwest,Iowa,7830.0,716.0,8546.0
+1719,2003,midwest,Kansas,8503.0,629.0,9132.0
+1720,2003,midwest,Michigan,47160.0,2198.0,49358.0
+1721,2003,midwest,Minnesota,7430.0,435.0,7865.0
+1722,2003,midwest,Missouri,28064.0,2239.0,30303.0
+1723,2003,midwest,Nebraska,3717.0,323.0,4040.0
+1724,2003,midwest,North Dakota,1126.0,113.0,1239.0
+1725,2003,midwest,Ohio,41881.0,2897.0,44778.0
+1726,2003,midwest,South Dakota,2757.0,269.0,3026.0
+1727,2003,midwest,Wisconsin,21199.0,1405.0,22604.0
+1728,2003,northeast,Connecticut,18298.0,1548.0,19846.0
+1729,2003,northeast,Maine,1889.0,124.0,2013.0
+1730,2003,northeast,Massachusetts,9524.0,708.0,10232.0
+1731,2003,northeast,New Hampshire,2317.0,117.0,2434.0
+1732,2003,northeast,New Jersey,25729.0,1517.0,27246.0
+1733,2003,northeast,New York,62284.0,2914.0,65198.0
+1734,2003,northeast,Pennsylvania,39067.0,1823.0,40890.0
+1735,2003,northeast,Rhode Island,3305.0,222.0,3527.0
+1736,2003,northeast,Vermont,1809.0,135.0,1944.0
+1737,2003,south,Alabama,25910.0,2003.0,27913.0
+1738,2003,south,Arkansas,12449.0,866.0,13315.0
+1739,2003,south,Delaware,6286.0,508.0,6794.0
+1740,2003,south,District of Columbia,,,
+1741,2003,south,Florida,76847.0,5165.0,82012.0
+1742,2003,south,Georgia,44063.0,3145.0,47208.0
+1743,2003,south,Kentucky,15211.0,1411.0,16622.0
+1744,2003,south,Louisiana,33642.0,2405.0,36047.0
+1745,2003,south,Maryland,22543.0,1248.0,23791.0
+1746,2003,south,Mississippi,18834.0,1755.0,20589.0
+1747,2003,south,North Carolina,31304.0,2256.0,33560.0
+1748,2003,south,Oklahoma,20501.0,2320.0,22821.0
+1749,2003,south,South Carolina,22143.0,1576.0,23719.0
+1750,2003,south,Tennessee,23577.0,1826.0,25403.0
+1751,2003,south,Texas,153424.0,13487.0,166911.0
+1752,2003,south,Virginia,32386.0,2681.0,35067.0
+1753,2003,south,West Virginia,4353.0,405.0,4758.0
+1754,2003,west,Alaska,4135.0,392.0,4527.0
+1755,2003,west,Arizona,28514.0,2656.0,31170.0
+1756,2003,west,California,153831.0,10656.0,164487.0
+1757,2003,west,Colorado,17935.0,1736.0,19671.0
+1758,2003,west,Hawaii,5143.0,685.0,5828.0
+1759,2003,west,Idaho,5146.0,591.0,5737.0
+1760,2003,west,Montana,3201.0,419.0,3620.0
+1761,2003,west,Nevada,9663.0,880.0,10543.0
+1762,2003,west,New Mexico,5647.0,576.0,6223.0
+1763,2003,west,Oregon,11832.0,883.0,12715.0
+1764,2003,west,Utah,5336.0,427.0,5763.0
+1765,2003,west,Washington,14860.0,1288.0,16148.0
+1766,2003,west,Wyoming,1697.0,175.0,1872.0
+1767,2004,aggregate,Federal,168164.0,12164.0,180328.0
+1768,2004,aggregate,Midwest,234054.0,16545.0,250599.0
+1769,2004,aggregate,Northeast,162072.0,8910.0,170982.0
+1770,2004,aggregate,South,554414.0,44666.0,599080.0
+1771,2004,aggregate,State Total,1223617.0,92684.0,1316301.0
+1772,2004,aggregate,U.S. Total,1391781.0,104848.0,1496629.0
+1773,2004,aggregate,West,273077.0,22563.0,295640.0
+1774,2004,midwest,Illinois,41304.0,2750.0,44054.0
+1775,2004,midwest,Indiana,22116.0,1892.0,24008.0
+1776,2004,midwest,Iowa,7768.0,757.0,8525.0
+1777,2004,midwest,Kansas,8346.0,620.0,8966.0
+1778,2004,midwest,Michigan,46770.0,2113.0,48883.0
+1779,2004,midwest,Minnesota,8214.0,544.0,8758.0
+1780,2004,midwest,Missouri,28574.0,2507.0,31081.0
+1781,2004,midwest,Nebraska,3761.0,369.0,4130.0
+1782,2004,midwest,North Dakota,1198.0,129.0,1327.0
+1783,2004,midwest,Ohio,41621.0,3185.0,44806.0
+1784,2004,midwest,South Dakota,2803.0,292.0,3095.0
+1785,2004,midwest,Wisconsin,21579.0,1387.0,22966.0
+1786,2004,northeast,Connecticut,18009.0,1488.0,19497.0
+1787,2004,northeast,Maine,1899.0,125.0,2024.0
+1788,2004,northeast,Massachusetts,9403.0,741.0,10144.0
+1789,2004,northeast,New Hampshire,2329.0,119.0,2448.0
+1790,2004,northeast,New Jersey,25287.0,1470.0,26757.0
+1791,2004,northeast,New York,60962.0,2789.0,63751.0
+1792,2004,northeast,Pennsylvania,39136.0,1827.0,40963.0
+1793,2004,northeast,Rhode Island,3222.0,208.0,3430.0
+1794,2004,northeast,Vermont,1825.0,143.0,1968.0
+1795,2004,south,Alabama,24139.0,1748.0,25887.0
+1796,2004,south,Arkansas,12845.0,962.0,13807.0
+1797,2004,south,Delaware,6370.0,557.0,6927.0
+1798,2004,south,District of Columbia,,,
+1799,2004,south,Florida,79873.0,5660.0,85533.0
+1800,2004,south,Georgia,47668.0,3436.0,51104.0
+1801,2004,south,Kentucky,16254.0,1560.0,17814.0
+1802,2004,south,Louisiana,34553.0,2386.0,36939.0
+1803,2004,south,Maryland,22105.0,1180.0,23285.0
+1804,2004,south,Mississippi,19187.0,1796.0,20983.0
+1805,2004,south,North Carolina,33004.0,2430.0,35434.0
+1806,2004,south,Oklahoma,20958.0,2361.0,23319.0
+1807,2004,south,South Carolina,21866.0,1562.0,23428.0
+1808,2004,south,Tennessee,23979.0,1905.0,25884.0
+1809,2004,south,Texas,154147.0,13958.0,168105.0
+1810,2004,south,Virginia,32858.0,2706.0,35564.0
+1811,2004,south,West Virginia,4608.0,459.0,5067.0
+1812,2004,west,Alaska,4157.0,397.0,4554.0
+1813,2004,west,Arizona,29750.0,2765.0,32515.0
+1814,2004,west,California,155368.0,11188.0,166556.0
+1815,2004,west,Colorado,18393.0,1900.0,20293.0
+1816,2004,west,Hawaii,5261.0,699.0,5960.0
+1817,2004,west,Idaho,5728.0,647.0,6375.0
+1818,2004,west,Montana,3404.0,473.0,3877.0
+1819,2004,west,Nevada,10487.0,878.0,11365.0
+1820,2004,west,New Mexico,5798.0,581.0,6379.0
+1821,2004,west,Oregon,12198.0,985.0,13183.0
+1822,2004,west,Utah,5479.0,510.0,5989.0
+1823,2004,west,Washington,15284.0,1330.0,16614.0
+1824,2004,west,Wyoming,1770.0,210.0,1980.0
+1825,2005,aggregate,Federal,175196.0,12422.0,187618.0
+1826,2005,aggregate,Midwest,345405.0,32685.0,378090.0
+1827,2005,aggregate,Northeast,251604.0,18809.0,270413.0
+1828,2005,aggregate,South,882091.0,92138.0,974229.0
+1829,2005,aggregate,State Total,1898065.0,189775.0,2087840.0
+1830,2005,aggregate,U.S. Total,2073261.0,202197.0,2275458.0
+1831,2005,aggregate,West,418965.0,46143.0,465108.0
+1832,2005,midwest,Illinois,59972.0,5013.0,64985.0
+1833,2005,midwest,Indiana,37949.0,4073.0,42022.0
+1834,2005,midwest,Iowa,11083.0,1291.0,12374.0
+1835,2005,midwest,Kansas,14343.0,1629.0,15972.0
+1836,2005,midwest,Michigan,63295.0,4369.0,67664.0
+1837,2005,midwest,Minnesota,14844.0,1460.0,16304.0
+1838,2005,midwest,Missouri,37391.0,3893.0,41284.0
+1839,2005,midwest,Nebraska,4847.0,552.0,5399.0
+1840,2005,midwest,North Dakota,3926.0,557.0,4483.0
+1841,2005,midwest,Ohio,59545.0,6162.0,65707.0
+1842,2005,midwest,South Dakota,4275.0,620.0,4895.0
+1843,2005,midwest,Wisconsin,33935.0,3066.0,37001.0
+1844,2005,northeast,Connecticut,17953.0,1489.0,19442.0
+1845,2005,northeast,Maine,3271.0,297.0,3568.0
+1846,2005,northeast,Massachusetts,21864.0,1456.0,23320.0
+1847,2005,northeast,New Hampshire,3903.0,355.0,4258.0
+1848,2005,northeast,New Jersey,41759.0,3221.0,44980.0
+1849,2005,northeast,New York,86681.0,5597.0,92278.0
+1850,2005,northeast,Pennsylvania,70824.0,6011.0,76835.0
+1851,2005,northeast,Rhode Island,3423.0,231.0,3654.0
+1852,2005,northeast,Vermont,1926.0,152.0,2078.0
+1853,2005,south,Alabama,39016.0,4015.0,43031.0
+1854,2005,south,Arkansas,17358.0,2308.0,19666.0
+1855,2005,south,Delaware,6408.0,558.0,6966.0
+1856,2005,south,District of Columbia,3130.0,422.0,3552.0
+1857,2005,south,Florida,138821.0,14567.0,153388.0
+1858,2005,south,Georgia,85063.0,8651.0,93714.0
+1859,2005,south,Kentucky,31794.0,4629.0,36423.0
+1860,2005,south,Louisiana,62159.0,5791.0,67950.0
+1861,2005,south,Maryland,32630.0,2493.0,35123.0
+1862,2005,south,Mississippi,29210.0,2727.0,31937.0
+1863,2005,south,North Carolina,48939.0,4597.0,53536.0
+1864,2005,south,Oklahoma,32368.0,3893.0,36261.0
+1865,2005,south,South Carolina,32488.0,2898.0,35386.0
+1866,2005,south,Tennessee,45106.0,5496.0,50602.0
+1867,2005,south,Texas,213186.0,22351.0,235537.0
+1868,2005,south,Virginia,55891.0,5877.0,61768.0
+1869,2005,south,West Virginia,8524.0,865.0,9389.0
+1870,2005,west,Alaska,4402.0,475.0,4877.0
+1871,2005,west,Arizona,43853.0,5191.0,49044.0
+1872,2005,west,California,230402.0,22412.0,252814.0
+1873,2005,west,Colorado,31055.0,4039.0,35094.0
+1874,2005,west,Hawaii,5414.0,732.0,6146.0
+1875,2005,west,Idaho,9005.0,1600.0,10605.0
+1876,2005,west,Montana,5131.0,666.0,5797.0
+1877,2005,west,Nevada,16784.0,2108.0,18892.0
+1878,2005,west,New Mexico,13441.0,1644.0,15085.0
+1879,2005,west,Oregon,18056.0,1904.0,19960.0
+1880,2005,west,Utah,11389.0,1732.0,13121.0
+1881,2005,west,Washington,26889.0,3186.0,30075.0
+1882,2005,west,Wyoming,3144.0,454.0,3598.0
+1883,2006,aggregate,Federal,180071.0,12975.0,193046.0
+1884,2006,aggregate,Midwest,243743.0,17670.0,261413.0
+1885,2006,aggregate,Northeast,168087.0,9730.0,177817.0
+1886,2006,aggregate,South,575711.0,47086.0,622797.0
+1887,2006,aggregate,State Total,1277415.0,99484.0,1376899.0
+1888,2006,aggregate,U.S. Total,1457486.0,112459.0,1569945.0
+1889,2006,aggregate,West,289874.0,24998.0,314872.0
+1890,2006,midwest,Illinois,,,
+1891,2006,midwest,Indiana,23924.0,2167.0,26091.0
+1892,2006,midwest,Iowa,8049.0,789.0,8838.0
+1893,2006,midwest,Kansas,8178.0,638.0,8816.0
+1894,2006,midwest,Michigan,49407.0,2170.0,51577.0
+1895,2006,midwest,Minnesota,8546.0,562.0,9108.0
+1896,2006,midwest,Missouri,27588.0,2579.0,30167.0
+1897,2006,midwest,Nebraska,3994.0,413.0,4407.0
+1898,2006,midwest,North Dakota,1206.0,157.0,1363.0
+1899,2006,midwest,Ohio,45465.0,3701.0,49166.0
+1900,2006,midwest,South Dakota,3009.0,350.0,3359.0
+1901,2006,midwest,Wisconsin,21991.0,1424.0,23415.0
+1902,2006,northeast,Connecticut,18972.0,1594.0,20566.0
+1903,2006,northeast,Maine,1975.0,145.0,2120.0
+1904,2006,northeast,Massachusetts,10186.0,846.0,11032.0
+1905,2006,northeast,New Hampshire,2633.0,172.0,2805.0
+1906,2006,northeast,New Jersey,25943.0,1428.0,27371.0
+1907,2006,northeast,New York,60456.0,2859.0,63315.0
+1908,2006,northeast,Pennsylvania,42148.0,2249.0,44397.0
+1909,2006,northeast,Rhode Island,3716.0,280.0,3996.0
+1910,2006,northeast,Vermont,2058.0,157.0,2215.0
+1911,2006,south,Alabama,26191.0,2050.0,28241.0
+1912,2006,south,Arkansas,12687.0,1042.0,13729.0
+1913,2006,south,Delaware,6615.0,571.0,7186.0
+1914,2006,south,District of Columbia,,,
+1915,2006,south,Florida,86480.0,6489.0,92969.0
+1916,2006,south,Georgia,49235.0,3557.0,52792.0
+1917,2006,south,Kentucky,17942.0,2058.0,20000.0
+1918,2006,south,Louisiana,34623.0,2389.0,37012.0
+1919,2006,south,Maryland,21864.0,1081.0,22945.0
+1920,2006,south,Mississippi,19279.0,1789.0,21068.0
+1921,2006,south,North Carolina,34774.0,2686.0,37460.0
+1922,2006,south,Oklahoma,22950.0,2547.0,25497.0
+1923,2006,south,South Carolina,22013.0,1603.0,23616.0
+1924,2006,south,Tennessee,23787.0,1958.0,25745.0
+1925,2006,south,Texas,158317.0,13799.0,172116.0
+1926,2006,south,Virginia,33795.0,2893.0,36688.0
+1927,2006,south,West Virginia,5159.0,574.0,5733.0
+1928,2006,west,Alaska,4551.0,518.0,5069.0
+1929,2006,west,Arizona,32650.0,3151.0,35801.0
+1930,2006,west,California,163535.0,11977.0,175512.0
+1931,2006,west,Colorado,20179.0,2302.0,22481.0
+1932,2006,west,Hawaii,5233.0,734.0,5967.0
+1933,2006,west,Idaho,6347.0,777.0,7124.0
+1934,2006,west,Montana,3209.0,354.0,3563.0
+1935,2006,west,Nevada,11765.0,1136.0,12901.0
+1936,2006,west,New Mexico,5972.0,667.0,6639.0
+1937,2006,west,Oregon,12687.0,1020.0,13707.0
+1938,2006,west,Utah,5810.0,623.0,6433.0
+1939,2006,west,Washington,16065.0,1496.0,17561.0
+1940,2006,west,Wyoming,1871.0,243.0,2114.0
+1941,2007,aggregate,Federal,186280.0,13338.0,199618.0
+1942,2007,aggregate,Midwest,245110.0,17929.0,263039.0
+1943,2007,aggregate,Northeast,169336.0,9694.0,179030.0
+1944,2007,aggregate,South,591075.0,48503.0,639578.0
+1945,2007,aggregate,State Total,1297460.0,101167.0,1398627.0
+1946,2007,aggregate,U.S. Total,1483740.0,114505.0,1598245.0
+1947,2007,aggregate,West,291939.0,25041.0,316980.0
+1948,2007,midwest,Illinois,42391.0,2824.0,45215.0
+1949,2007,midwest,Indiana,24837.0,2295.0,27132.0
+1950,2007,midwest,Iowa,8015.0,717.0,8732.0
+1951,2007,midwest,Kansas,8071.0,625.0,8696.0
+1952,2007,midwest,Michigan,48153.0,2080.0,50233.0
+1953,2007,midwest,Minnesota,8866.0,602.0,9468.0
+1954,2007,midwest,Missouri,27335.0,2522.0,29857.0
+1955,2007,midwest,Nebraska,4106.0,399.0,4505.0
+1956,2007,midwest,North Dakota,1269.0,147.0,1416.0
+1957,2007,midwest,Ohio,46909.0,3822.0,50731.0
+1958,2007,midwest,South Dakota,2942.0,369.0,3311.0
+1959,2007,midwest,Wisconsin,22216.0,1527.0,23743.0
+1960,2007,northeast,Connecticut,19428.0,1496.0,20924.0
+1961,2007,northeast,Maine,2009.0,139.0,2148.0
+1962,2007,northeast,Massachusetts,10646.0,790.0,11436.0
+1963,2007,northeast,New Hampshire,2741.0,202.0,2943.0
+1964,2007,northeast,New Jersey,25417.0,1410.0,26827.0
+1965,2007,northeast,New York,59866.0,2754.0,62620.0
+1966,2007,northeast,Pennsylvania,43506.0,2463.0,45969.0
+1967,2007,northeast,Rhode Island,3736.0,282.0,4018.0
+1968,2007,northeast,Vermont,1987.0,158.0,2145.0
+1969,2007,south,Alabama,27254.0,2158.0,29412.0
+1970,2007,south,Arkansas,13248.0,1066.0,14314.0
+1971,2007,south,Delaware,6699.0,577.0,7276.0
+1972,2007,south,District of Columbia,,,
+1973,2007,south,Florida,91365.0,6854.0,98219.0
+1974,2007,south,Georgia,50711.0,3545.0,54256.0
+1975,2007,south,Kentucky,20016.0,2441.0,22457.0
+1976,2007,south,Louisiana,35082.0,2458.0,37540.0
+1977,2007,south,Maryland,22249.0,1184.0,23433.0
+1978,2007,south,Mississippi,20469.0,1962.0,22431.0
+1979,2007,south,North Carolina,35344.0,2626.0,37970.0
+1980,2007,south,Oklahoma,23242.0,2607.0,25849.0
+1981,2007,south,South Carolina,22635.0,1604.0,24239.0
+1982,2007,south,Tennessee,24344.0,1923.0,26267.0
+1983,2007,south,Texas,157859.0,13931.0,171790.0
+1984,2007,south,Virginia,35136.0,2933.0,38069.0
+1985,2007,south,West Virginia,5422.0,634.0,6056.0
+1986,2007,west,Alaska,4603.0,564.0,5167.0
+1987,2007,west,Arizona,34286.0,3460.0,37746.0
+1988,2007,west,California,162654.0,11628.0,174282.0
+1989,2007,west,Colorado,20506.0,2335.0,22841.0
+1990,2007,west,Hawaii,5232.0,746.0,5978.0
+1991,2007,west,Idaho,6519.0,800.0,7319.0
+1992,2007,west,Montana,3161.0,301.0,3462.0
+1993,2007,west,Nevada,12221.0,1179.0,13400.0
+1994,2007,west,New Mexico,5890.0,576.0,6466.0
+1995,2007,west,Oregon,12888.0,1060.0,13948.0
+1996,2007,west,Utah,5883.0,632.0,6515.0
+1997,2007,west,Washington,16258.0,1514.0,17772.0
+1998,2007,west,Wyoming,1838.0,246.0,2084.0
+1999,2008,aggregate,Federal,188007.0,13273.0,201280.0
+2000,2008,aggregate,Midwest,246531.0,17783.0,264314.0
+2001,2008,aggregate,Northeast,169041.0,9601.0,178642.0
+2002,2008,aggregate,South,598262.0,49050.0,647312.0
+2003,2008,aggregate,State Total,1307103.0,101376.0,1408479.0
+2004,2008,aggregate,U.S. Total,1495110.0,114649.0,1609759.0
+2005,2008,aggregate,West,293269.0,24942.0,318211.0
+2006,2008,midwest,Illinois,42753.0,2721.0,45474.0
+2007,2008,midwest,Indiana,25829.0,2493.0,28322.0
+2008,2008,midwest,Iowa,8017.0,749.0,8766.0
+2009,2008,midwest,Kansas,7970.0,569.0,8539.0
+2010,2008,midwest,Michigan,46781.0,1957.0,48738.0
+2011,2008,midwest,Minnesota,9240.0,670.0,9910.0
+2012,2008,midwest,Missouri,27737.0,2449.0,30186.0
+2013,2008,midwest,Nebraska,4130.0,390.0,4520.0
+2014,2008,midwest,North Dakota,1292.0,160.0,1452.0
+2015,2008,midwest,Ohio,47773.0,3913.0,51686.0
+2016,2008,midwest,South Dakota,2987.0,355.0,3342.0
+2017,2008,midwest,Wisconsin,22022.0,1357.0,23379.0
+2018,2008,northeast,Connecticut,19159.0,1502.0,20661.0
+2019,2008,northeast,Maine,2039.0,156.0,2195.0
+2020,2008,northeast,Massachusetts,10657.0,751.0,11408.0
+2021,2008,northeast,New Hampshire,2521.0,181.0,2702.0
+2022,2008,northeast,New Jersey,24654.0,1299.0,25953.0
+2023,2008,northeast,New York,57760.0,2587.0,60347.0
+2024,2008,northeast,Pennsylvania,46451.0,2764.0,49215.0
+2025,2008,northeast,Rhode Island,3802.0,243.0,4045.0
+2026,2008,northeast,Vermont,1998.0,118.0,2116.0
+2027,2008,south,Alabama,28277.0,2231.0,30508.0
+2028,2008,south,Arkansas,13656.0,1060.0,14716.0
+2029,2008,south,Delaware,6518.0,557.0,7075.0
+2030,2008,south,District of Columbia,,,
+2031,2008,south,Florida,95237.0,7151.0,102388.0
+2032,2008,south,Georgia,49027.0,3692.0,52719.0
+2033,2008,south,Kentucky,19436.0,2270.0,21706.0
+2034,2008,south,Louisiana,35865.0,2516.0,38381.0
+2035,2008,south,Maryland,22264.0,1060.0,23324.0
+2036,2008,south,Mississippi,20773.0,1981.0,22754.0
+2037,2008,south,North Carolina,36704.0,2778.0,39482.0
+2038,2008,south,Oklahoma,23340.0,2524.0,25864.0
+2039,2008,south,South Carolina,22693.0,1633.0,24326.0
+2040,2008,south,Tennessee,25099.0,2129.0,27228.0
+2041,2008,south,Texas,158653.0,13853.0,172506.0
+2042,2008,south,Virginia,35309.0,2967.0,38276.0
+2043,2008,south,West Virginia,5411.0,648.0,6059.0
+2044,2008,west,Alaska,4511.0,503.0,5014.0
+2045,2008,west,Arizona,35823.0,3766.0,39589.0
+2046,2008,west,California,162050.0,11620.0,173670.0
+2047,2008,west,Colorado,20980.0,2294.0,23274.0
+2048,2008,west,Hawaii,5227.0,728.0,5955.0
+2049,2008,west,Idaho,6532.0,758.0,7290.0
+2050,2008,west,Montana,3184.0,361.0,3545.0
+2051,2008,west,Nevada,11761.0,982.0,12743.0
+2052,2008,west,New Mexico,5833.0,569.0,6402.0
+2053,2008,west,Oregon,13058.0,1109.0,14167.0
+2054,2008,west,Utah,5912.0,640.0,6552.0
+2055,2008,west,Washington,16522.0,1404.0,17926.0
+2056,2008,west,Wyoming,1876.0,208.0,2084.0
+2057,2009,aggregate,Federal,194493.0,13625.0,208118.0
+2058,2009,aggregate,Midwest,244160.0,17455.0,261615.0
+2059,2009,aggregate,Northeast,168074.0,9287.0,177361.0
+2060,2009,aggregate,South,604897.0,48922.0,653819.0
+2061,2009,aggregate,State Total,1310040.0,99812.0,1409852.0
+2062,2009,aggregate,U.S. Total,1504533.0,113437.0,1617970.0
+2063,2009,aggregate,West,292909.0,24148.0,317057.0
+2064,2009,midwest,Illinois,42571.0,2590.0,45161.0
+2065,2009,midwest,Indiana,26302.0,2506.0,28808.0
+2066,2009,midwest,Iowa,8090.0,723.0,8813.0
+2067,2009,midwest,Kansas,8076.0,565.0,8641.0
+2068,2009,midwest,Michigan,43723.0,1755.0,45478.0
+2069,2009,midwest,Minnesota,9312.0,674.0,9986.0
+2070,2009,midwest,Missouri,28136.0,2427.0,30563.0
+2071,2009,midwest,Nebraska,4108.0,366.0,4474.0
+2072,2009,midwest,North Dakota,1312.0,174.0,1486.0
+2073,2009,midwest,Ohio,47617.0,3989.0,51606.0
+2074,2009,midwest,South Dakota,3054.0,380.0,3434.0
+2075,2009,midwest,Wisconsin,21859.0,1306.0,23165.0
+2076,2009,northeast,Connecticut,18381.0,1335.0,19716.0
+2077,2009,northeast,Maine,2048.0,158.0,2206.0
+2078,2009,northeast,Massachusetts,10597.0,719.0,11316.0
+2079,2009,northeast,New Hampshire,2564.0,167.0,2731.0
+2080,2009,northeast,New Jersey,24176.0,1206.0,25382.0
+2081,2009,northeast,New York,56198.0,2489.0,58687.0
+2082,2009,northeast,Pennsylvania,48601.0,2828.0,51429.0
+2083,2009,northeast,Rhode Island,3444.0,230.0,3674.0
+2084,2009,northeast,Vermont,2065.0,155.0,2220.0
+2085,2009,south,Alabama,29419.0,2455.0,31874.0
+2086,2009,south,Arkansas,14147.0,1061.0,15208.0
+2087,2009,south,Delaware,6301.0,493.0,6794.0
+2088,2009,south,District of Columbia,,,
+2089,2009,south,Florida,96632.0,7283.0,103915.0
+2090,2009,south,Georgia,53168.0,3818.0,56986.0
+2091,2009,south,Kentucky,19343.0,2295.0,21638.0
+2092,2009,south,Louisiana,37164.0,2616.0,39780.0
+2093,2009,south,Maryland,21206.0,1049.0,22255.0
+2094,2009,south,Mississippi,19747.0,1735.0,21482.0
+2095,2009,south,North Carolina,37721.0,2808.0,40529.0
+2096,2009,south,Oklahoma,23772.0,2625.0,26397.0
+2097,2009,south,South Carolina,22771.0,1517.0,24288.0
+2098,2009,south,Tennessee,24956.0,2009.0,26965.0
+2099,2009,south,Texas,157679.0,13570.0,171249.0
+2100,2009,south,Virginia,35188.0,2904.0,38092.0
+2101,2009,south,West Virginia,5683.0,684.0,6367.0
+2102,2009,west,Alaska,4696.0,589.0,5285.0
+2103,2009,west,Arizona,36850.0,3777.0,40627.0
+2104,2009,west,California,160286.0,10989.0,171275.0
+2105,2009,west,Colorado,20694.0,2101.0,22795.0
+2106,2009,west,Hawaii,5190.0,701.0,5891.0
+2107,2009,west,Idaho,6656.0,744.0,7400.0
+2108,2009,west,Montana,3214.0,391.0,3605.0
+2109,2009,west,Nevada,11533.0,949.0,12482.0
+2110,2009,west,New Mexico,5859.0,589.0,6448.0
+2111,2009,west,Oregon,13278.0,1125.0,14403.0
+2112,2009,west,Utah,5956.0,582.0,6538.0
+2113,2009,west,Washington,16836.0,1397.0,18233.0
+2114,2009,west,Wyoming,1861.0,214.0,2075.0
+2115,2010,aggregate,Federal,196222.0,13549.0,209771.0
+2116,2010,aggregate,Midwest,245373.0,18055.0,263428.0
+2117,2010,aggregate,Northeast,165100.0,8811.0,173911.0
+2118,2010,aggregate,South,604423.0,49719.0,654142.0
+2119,2010,aggregate,State Total,1302840.0,99784.0,1402624.0
+2120,2010,aggregate,U.S. Total,2059020.0,204582.0,2263602.0
+2121,2010,aggregate,West,287944.0,23199.0,311143.0
+2122,2010,midwest,Illinois,65066.0,5762.0,70828.0
+2123,2010,midwest,Indiana,44153.0,4541.0,48694.0
+2124,2010,midwest,Iowa,11820.0,1489.0,13309.0
+2125,2010,midwest,Kansas,16533.0,1476.0,18009.0
+2126,2010,midwest,Michigan,59772.0,2311.0,62083.0
+2127,2010,midwest,Minnesota,17900.0,2497.0,20397.0
+2128,2010,midwest,Missouri,38175.0,3781.0,41956.0
+2129,2010,midwest,Nebraska,7223.0,861.0,8084.0
+2130,2010,midwest,North Dakota,2194.0,295.0,2489.0
+2131,2010,midwest,Ohio,69398.0,7192.0,76590.0
+2132,2010,midwest,South Dakota,5581.0,746.0,6327.0
+2133,2010,midwest,Wisconsin,34890.0,3212.0,38102.0
+2134,2010,northeast,Connecticut,18075.0,2629.0,20059.0
+2135,2010,northeast,Maine,3322.0,357.0,3679.0
+2136,2010,northeast,Massachusetts,22968.0,1715.0,24683.0
+2137,2010,northeast,New Hampshire,4379.0,472.0,4851.0
+2138,2010,northeast,New Jersey,41091.0,3377.0,44468.0
+2139,2010,northeast,New York,89623.0,5683.0,95306.0
+2140,2010,northeast,Pennsylvania,90638.0,7182.0,97820.0
+2141,2010,northeast,Rhode Island,3569.0,218.0,3783.0
+2142,2010,northeast,Vermont,1930.0,160.0,2079.0
+2143,2010,south,Alabama,35982.0,5195.0,41177.0
+2144,2010,south,Arkansas,23387.0,2457.0,25844.0
+2145,2010,south,Delaware,6134.0,464.0,6598.0
+2146,2010,south,District of Columbia,3135.0,463.0,3598.0
+2147,2010,south,Florida,151233.0,16220.0,167453.0
+2148,2010,south,Georgia,94814.0,9198.0,104012.0
+2149,2010,south,Kentucky,36275.0,4847.0,41122.0
+2150,2010,south,Louisiana,56224.0,4580.0,60804.0
+2151,2010,south,Maryland,33439.0,2393.0,35832.0
+2152,2010,south,Mississippi,31641.0,2632.0,34273.0
+2153,2010,south,North Carolina,57016.0,4664.0,61680.0
+2154,2010,south,Oklahoma,36288.0,4274.0,40562.0
+2155,2010,south,South Carolina,38757.0,2892.0,41649.0
+2156,2010,south,Tennessee,41515.0,5442.0,46957.0
+2157,2010,south,Texas,241325.0,26080.0,267405.0
+2158,2010,south,Virginia,59289.0,5951.0,65240.0
+2159,2010,south,West Virginia,14022.0,2569.0,16591.0
+2160,2010,west,Alaska,4953.0,644.0,5597.0
+2161,2010,west,Arizona,60983.0,6784.0,67767.0
+2162,2010,west,California,234479.0,22328.0,256807.0
+2163,2010,west,Colorado,36886.0,3682.0,40568.0
+2164,2010,west,Hawaii,5184.0,1096.0,5912.0
+2165,2010,west,Idaho,9799.0,1476.0,11275.0
+2166,2010,west,Montana,4649.0,689.0,5338.0
+2167,2010,west,Nevada,17842.0,2049.0,19891.0
+2168,2010,west,New Mexico,15920.0,1987.0,17907.0
+2169,2010,west,Oregon,20042.0,2161.0,22203.0
+2170,2010,west,Utah,10959.0,1707.0,12666.0
+2171,2010,west,Washington,28687.0,3273.0,31960.0
+2172,2010,west,Wyoming,3080.0,496.0,3576.0
